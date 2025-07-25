@@ -333,13 +333,15 @@ Once new peptide sequences have been generated, you can evaluate their statistic
 To begin, run `acps_and_instb_calc.py` to compute the ACP scores and instability index for the generated peptides. Then, execute `distribution_curve.py` to visualize the distribution curves and compute the KL divergence across relevant metrics.
 
 Before running the scripts, make sure to update all directory paths inside both Python files to match your project structure.
+
 ![Image not available](Images/combined_density_plot_all_models.png)
+
 The plots generated will compare Molecular weight, Isoelectric point, Net charge at pH 7, GRAVY, Instability Index, and ACP scores between the generated peptide and training data peptide as shown in the image above.
 
 ---
 ## 📊 Logging & Evaluation
 
-- Training logs and metrics (Eg. loss, accuracy, AUC-ROC) are tracked with [Weights & Biases](https://wandb.ai/)
+- All Training logs and metrics (Eg. loss, accuracy, AUC-ROC) are tracked with [Weights & Biases](https://wandb.ai/). Please ensure you have have setup wandb prior to running this project.
 - Classification reports and embedding extraction are saved automatically.
 
 ---
