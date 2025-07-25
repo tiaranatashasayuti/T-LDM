@@ -1,0 +1,624 @@
+Binding_Target,pdb_id,Sequence,Molecular Weight,LD/Mix,Structure_Type,Journal,Year,PDB_File
+Bcl-xL,BIM_EL_I146Y,LRPEIRYAQELRRIGDEFNE,2504.89,L,Linear,eLife,2019,PDB_Files/BIM_EL_I146Y.pdb
+Bcl-xL,BIM_WAA,LWAAIRIAQELRRIGDEFNE,2400.83,L,Linear,eLife,2019,PDB_Files/BIM_WAA.pdb
+Bcl-xL,BIM_EL_Q148R,LRPEIRIARELRRIGDEFNE,2482.93,L,Linear,eLife,2019,PDB_Files/BIM_EL_Q148R.pdb
+Bcl-xL,BIM_EL_I153M,LRPEIRIAQELRRMGDEFNE,2472.91,L,Linear,eLife,2019,PDB_Files/BIM_EL_I153M.pdb
+Bcl-xL,BIM_EL_I146Y_Q148R,LRPEIRYARELRRIGDEFNE,2532.94,L,Linear,eLife,2019,PDB_Files/BIM_EL_I146Y_Q148R.pdb
+Bcl-xL,BIM_EL_I146Y_I153M,LRPEIRYAQELRRMGDEFNE,2522.92,L,Linear,eLife,2019,PDB_Files/BIM_EL_I146Y_I153M.pdb
+Bcl-xL,BIM_EL_CTS,PQMVILQLLRFIFRLVWRRH,2622.4,L,Linear,eLife,2019,PDB_Files/BIM_EL_CTS.pdb
+Bcl-xL,BIM_EL_I181E,PQMVELQLLRFIFRLVWRRH,2638.35,L,Linear,eLife,2019,PDB_Files/BIM_EL_I181E.pdb
+Bcl-xL,BIM_EL_L185E,PQMVILQLERFIFRLVWRRH,2638.35,L,Linear,eLife,2019,PDB_Files/BIM_EL_L185E.pdb
+Bcl-xL,BIM_EL_I188E,PQMVILQLLRFEFRLVWRRH,2638.35,L,Linear,eLife,2019,PDB_Files/BIM_EL_I188E.pdb
+Bcl-xL,BIM_EL_V192E,PQMVILQLLRFIFRLEWRRH,2652.38,L,Linear,eLife,2019,PDB_Files/BIM_EL_V192E.pdb
+Bcl-xL,BIM_EL_CST_2A_R186A_R190A_,PQMVILQLLAFIFALVWRRH,2452.18,L,Linear,eLife,2019,PDB_Files/BIM_EL_CST_2A_R186A_R190A_.pdb
+Bcl-xL,BIM_SM_6,IAQELRRIGDEF,1684.12,L,Linear,Chinese Chemical Letters,2017,PDB_Files/BIM_SM_6.pdb
+Bcl-xL,BIM_SM_1,IWIAQELRRIGDEFNA,1972.33,L,Linear,Chinese Chemical Letters,2017,PDB_Files/BIM_SM_1.pdb
+Bcl-xL,BIM_SM_2,IWIAQELRRIGDEF,1787.14,L,Linear,Chinese Chemical Letters,2017,PDB_Files/BIM_SM_2.pdb
+Bcl-xL,BIM_SM_3,IAQELRRIGDEFNA,1672.94,L,Linear,Chinese Chemical Letters,2017,PDB_Files/BIM_SM_3.pdb
+Bcl-xL,BIM_SM_4,WIAQELRRIGDEFN,1788.08,L,Linear,Chinese Chemical Letters,2017,PDB_Files/BIM_SM_4.pdb
+Bcl-xL,BIM_SM_5,IAQELRRIGDEF,1487.75,L,Linear,Chinese Chemical Letters,2017,PDB_Files/BIM_SM_5.pdb
+Bcl-xL,BIM_SM_7,IAQELRRIGDEF,1725.71,L,Linear,Chinese Chemical Letters,2017,PDB_Files/BIM_SM_7.pdb
+Bcl-xL,BIM_XXA1_K3bR,RPEIWYAQGLRRFGDEFNAYYAR,2879.29,L,Linear,Journal of Molecular Biology,2015,PDB_Files/BIM_XXA1_K3bR.pdb
+Bcl-xL,PUMA_BH3,EQWAREIGAQLRRMADDLNA,2343.7,L,Linear,Journal of Molecular Biology,2015,PDB_Files/PUMA_BH3.pdb
+Bcl-xL,BIM_Y4eK_21,RPEIWYAQGLKRFGDEFNAYK,2589.01,L,Linear,Journal of Molecular Biology,2015,PDB_Files/BIM_Y4eK_21.pdb
+Bcl-xL,BIM_Y4eK_18,IWYAQGLKRFGDEFNAYK,2206.58,L,Linear,Journal of Molecular Biology,2015,PDB_Files/BIM_Y4eK_18.pdb
+Bcl-xL,BIM_XXA1_Y4eK,RPEIWYAQGLKRFGDEFNAYKAR,2816.28,L,Linear,Journal of Molecular Biology,2015,PDB_Files/BIM_XXA1_Y4eK.pdb
+Bcl-xL,BIM_XXA1_F3dI,RPEIWYAQGLKRIGDEFNAYYAR,2817.27,L,Linear,Journal of Molecular Biology,2015,PDB_Files/BIM_XXA1_F3dI.pdb
+Bcl-xL,BIM_XXA1_G2gE,RPEIWYAQELKRFGDEFNAYYAR,2923.34,L,Linear,Journal of Molecular Biology,2015,PDB_Files/BIM_XXA1_G2gE.pdb
+Bcl-xL,BIM_XXA1_Y2dI,RPEIWIAQGLKRFGDEFNAYYAR,2801.27,L,Linear,Journal of Molecular Biology,2015,PDB_Files/BIM_XXA1_Y2dI.pdb
+Bcl-xL,BIM_XXA4,RPEIWYAQWLKRFGDQFNAYYAR,2979.46,L,Linear,Journal of Molecular Biology,2015,PDB_Files/BIM_XXA4.pdb
+Bcl-xL,BIM_XXA1,RPEIWYAQGLKRFGDEFNAYYAR,2851.28,L,Linear,Journal of Molecular Biology,2015,PDB_Files/BIM_XXA1.pdb
+Bcl-xL,BIM_BH3_E158S_,EIWIAQELRRIGDSFNAYYAR,2906.1,L,Linear,Cell Death and Disease,2015,PDB_Files/BIM_BH3_E158S_.pdb
+Bcl-xL,BIM_BH3_R154S_I155R_E158S_,EIWIAQELRSRGDSFNAYYAR,2712.95,L,Linear,Cell Death and Disease,2015,PDB_Files/BIM_BH3_R154S_I155R_E158S_.pdb
+Bcl-xL,BIM_BH3_I155R_E158A_,EIWIAQELRRRGDAFNAYYAR,2766.06,L,Linear,Cell Death and Disease,2015,PDB_Files/BIM_BH3_I155R_E158A_.pdb
+Bcl-xL,BIM_BH3_I155R_E158S_,EIWIAQELRRRGDSFNAYYAR,2615.0,L,Linear,Cell Death and Disease,2015,PDB_Files/BIM_BH3_I155R_E158S_.pdb
+Bcl-xL,Bad,LWAAQRYGRELRRMSDEFEGSFKGL,3003.51,L,Linear,Journal of Molecular Biology,2015,PDB_Files/Bad.pdb
+Bcl-xL,MS1,RPEIWMTQGLRRLGDEINAYYAR,2809.32,L,Linear,American Chemical Society Chemical Biology,2014,PDB_Files/MS1.pdb
+Bcl-xL,B3,RPEIWLGQSLQRLGDEINAYYAR,2749.21,L,Linear,American Chemical Society Chemical Biology,2014,PDB_Files/B3.pdb
+Bcl-xL,A12,RPEIWMGQGLRRLGDEINAYYAR,2765.27,L,Linear,American Chemical Society Chemical Biology,2014,PDB_Files/A12.pdb
+Bcl-xL,NoxaA,AELPPEFAAQLRKIGDKVYC,2248.72,L,Linear,American Chemical Society Chemical Biology,2014,PDB_Files/NoxaA.pdb
+Bcl-xL,BIM_A2eT,RPEIWITQELRRIGDEFNAYYAR,2897.36,L,Linear,American Chemical Society Chemical Biology,2014,PDB_Files/BIM_A2eT.pdb
+Bcl-xL,BIM_A2eT_I2dM,RPEIWMTQELRRIGDEFNAYYAR,2915.39,L,Linear,American Chemical Society Chemical Biology,2014,PDB_Files/BIM_A2eT_I2dM.pdb
+Bcl-xL,BIM_A2eT_E2gG,RPEIWITQGLRRIGDEFNAYYAR,2825.3,L,Linear,American Chemical Society Chemical Biology,2014,PDB_Files/BIM_A2eT_E2gG.pdb
+Bcl-xL,BIM_A2eT_I3dL,RPEIWITQELRRLGDEFNAYYAR,2897.36,L,Linear,American Chemical Society Chemical Biology,2014,PDB_Files/BIM_A2eT_I3dL.pdb
+Bcl-xL,BIM_A2eT_F4aI,RPEIWITQELRRIGDEINAYYAR,2863.35,L,Linear,American Chemical Society Chemical Biology,2014,PDB_Files/BIM_A2eT_F4aI.pdb
+Bcl-xL,BIM_FD1,RPEIWLAQYLRRLGDQINAYYAR,2866.4,L,Linear,ACS Chemical Biology,2013,PDB_Files/BIM_FD1.pdb
+Bcl-xL,BIM_FD2,RPEIWMAQVLRRFGDLLNAYYAR,2839.43,L,Linear,ACS Chemical Biology,2013,PDB_Files/BIM_FD2.pdb
+Bcl-xL,BIM_FA1,RPEIWIAQELRRAGDVLNAYYAR,2761.25,L,Linear,ACS Chemical Biology,2013,PDB_Files/BIM_FA1.pdb
+Bcl-xL,BIM_FW1,RPEIWIAQGLRRIGDTWNAYYAR,2806.3,L,Linear,ACS Chemical Biology,2013,PDB_Files/BIM_FW1.pdb
+Bcl-xL,BIM,RPEIWIAQELRRIGDEFNAYYAR,2867.33,L,Linear,ACS Chemical Biology,2013,PDB_Files/BIM.pdb
+Bcl-xL,LIB332,MRPEIWFAQEARRIGDEVNAYYARRV,3197.74,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB332.pdb
+Bcl-xL,LIB342,MRPEIWFAQEARRNGDENNAYYARRV,3213.65,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB342.pdb
+Bcl-xL,LIB341,MRPEIWFAQEARRNGDEVNAYYARRV,3198.68,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB341.pdb
+Bcl-xL,LIB340,MRPEIWFAQEARRNGDEFNAYYARRV,3246.72,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB340.pdb
+Bcl-xL,LIB339,MRPEIWFAQEARRDGDENNAYYARRV,3214.63,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB339.pdb
+Bcl-xL,LIB338,MRPEIWFAQEARRDGDEVNAYYARRV,3199.66,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB338.pdb
+Bcl-xL,LIB337,MRPEIWFAQEARRDGDEFNAYYARRV,3247.7,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB337.pdb
+Bcl-xL,LIB336,MRPEIWFAQEARRFGDENNAYYARRV,3246.72,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB336.pdb
+Bcl-xL,LIB335,MRPEIWFAQEARRFGDEVNAYYARRV,3231.75,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB335.pdb
+Bcl-xL,LIB334,MRPEIWFAQEARRFGDEFNAYYARRV,3279.79,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB334.pdb
+Bcl-xL,LIB283,MRPEIWFAQEIRRAGDEFNAYYARRV,3245.78,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB283.pdb
+Bcl-xL,LIB343,MRPEIWFAQEARRAGDEFNAYYARRV,3203.69,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB343.pdb
+Bcl-xL,LIB331,MRPEIWFAQEARRIGDEFNAYYARRV,3245.78,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB331.pdb
+Bcl-xL,LIB330,MRPEIWFAQEFDRAGDENNAYYARRV,3205.62,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB330.pdb
+Bcl-xL,LIB329,MRPEIWFAQEFDRAGDEVNAYYARRV,3190.65,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB329.pdb
+Bcl-xL,LIB328,MRPEIWFAQEFDRAGDEFNAYYARRV,3238.69,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB328.pdb
+Bcl-xL,LIB327,MRPEIWFAQEFDRNGDENNAYYARRV,3248.65,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB327.pdb
+Bcl-xL,LIB326,MRPEIWFAQEFDRNGDEVNAYYARRV,3233.68,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB326.pdb
+Bcl-xL,LIB325,MRPEIWFAQEFDRNGDEFNAYYARRV,3281.72,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB325.pdb
+Bcl-xL,LIB324,MRPEIWFAQEFDRDGDENNAYYARRV,3249.63,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB324.pdb
+Bcl-xL,LIB352,MRPEIWFAQEADRDGDEFNAYYARRV,3206.6,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB352.pdb
+Bcl-xL,Bad_a,NLWAARYGRELRRMSDKFVD,2483.92,L,Linear,PROTEIN SCIENCE,2010,PDB_Files/Bad_a.pdb
+Bcl-xL,LIB359,MRPEIWFAQEADRAGDEVNAYYARRV,3114.55,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB359.pdb
+Bcl-xL,LIB358,MRPEIWFAQEADRAGDEFNAYYARRV,3162.59,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB358.pdb
+Bcl-xL,LIB357,MRPEIWFAQEADRNGDENNAYYARRV,3172.55,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB357.pdb
+Bcl-xL,LIB356,MRPEIWFAQEADRNGDEVNAYYARRV,3157.58,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB356.pdb
+Bcl-xL,LIB355,MRPEIWFAQEADRNGDEFNAYYARRV,3205.62,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB355.pdb
+Bcl-xL,LIB354,MRPEIWFAQEADRDGDENNAYYARRV,3173.53,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB354.pdb
+Bcl-xL,LIB353,MRPEIWFAQEADRDGDEVNAYYARRV,3158.56,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB353.pdb
+Bcl-xL,LIB333,MRPEIWFAQEARRIGDENNAYYARRV,3212.71,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB333.pdb
+Bcl-xL,LIB351,MRPEIWFAQEADRFGDENNAYYARRV,3205.62,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB351.pdb
+Bcl-xL,LIB350,MRPEIWFAQEADRFGDEVNAYYARRV,3190.65,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB350.pdb
+Bcl-xL,LIB349,MRPEIWFAQEADRFGDEFNAYYARRV,3238.69,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB349.pdb
+Bcl-xL,LIB348,MRPEIWFAQEADRIGDENNAYYARRV,3171.61,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB348.pdb
+Bcl-xL,LIB347,MRPEIWFAQEADRIGDEVNAYYARRV,3156.64,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB347.pdb
+Bcl-xL,LIB346,MRPEIWFAQEADRIGDEFNAYYARRV,3204.68,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB346.pdb
+Bcl-xL,LIB345,MRPEIWFAQEARRAGDENNAYYARRV,3170.62,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB345.pdb
+Bcl-xL,LIB344,MRPEIWFAQEARRAGDEVNAYYARRV,3155.65,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB344.pdb
+Bcl-xL,LIB323,MRPEIWFAQEFDRDGDEVNAYYARRV,3234.66,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB323.pdb
+Bcl-xL,LIB302,MRPEIWFAQEFRRIGDEVNAYYARRV,3273.84,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB302.pdb
+Bcl-xL,LIB301,MRPEIWFAQEFRRIGDEFNAYYARRV,3321.88,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB301.pdb
+Bcl-xL,LIB300,MRPEIWFAQEIDRAGDENNAYYARRV,3171.61,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB300.pdb
+Bcl-xL,LIB299,MRPEIWFAQEIDRAGDEVNAYYARRV,3156.64,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB299.pdb
+Bcl-xL,LIB298,MRPEIWFAQEIDRAGDEFNAYYARRV,3204.68,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB298.pdb
+Bcl-xL,LIB297,MRPEIWFAQEIDRNGDENNAYYARRV,3214.64,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB297.pdb
+Bcl-xL,LIB296,MRPEIWFAQEIDRNGDEVNAYYARRV,3199.67,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB296.pdb
+Bcl-xL,LIB295,MRPEIWFAQEIDRNGDEFNAYYARRV,3247.71,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB295.pdb
+Bcl-xL,LIB294,MRPEIWFAQEIDRDGDENNAYYARRV,3215.62,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB294.pdb
+Bcl-xL,LIB293,MRPEIWFAQEIDRDGDEVNAYYARRV,3200.65,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB293.pdb
+Bcl-xL,LIB292,MRPEIWFAQEIDRDGDEFNAYYARRV,3248.69,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB292.pdb
+Bcl-xL,LIB291,MRPEIWFAQEIDRFGDENNAYYARRV,3247.71,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB291.pdb
+Bcl-xL,LIB290,MRPEIWFAQEIDRFGDEVNAYYARRV,3232.74,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB290.pdb
+Bcl-xL,LIB289,MRPEIWFAQEIDRFGDEFNAYYARRV,3280.78,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB289.pdb
+Bcl-xL,LIB288,MRPEIWFAQEIDRIGDENNAYYARRV,3213.7,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB288.pdb
+Bcl-xL,LIB287,MRPEIWFAQEIDRIGDEVNAYYARRV,3198.73,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB287.pdb
+Bcl-xL,LIB286,MRPEIWFAQEIDRIGDEFNAYYARRV,3246.77,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB286.pdb
+Bcl-xL,LIB285,MRPEIWFAQEIRRAGDENNAYYARRV,3212.71,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB285.pdb
+Bcl-xL,LIB284,MRPEIWFAQEIRRAGDEVNAYYARRV,3197.74,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB284.pdb
+Bcl-xL,LIB304,MRPEIWFAQEFRRFGDEFNAYYARRV,3355.89,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB304.pdb
+Bcl-xL,LIB322,MRPEIWFAQEFDRDGDEFNAYYARRV,3282.7,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB322.pdb
+Bcl-xL,LIB321,MRPEIWFAQEFDRFGDENNAYYARRV,3281.72,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB321.pdb
+Bcl-xL,LIB320,MRPEIWFAQEFDRFGDEVNAYYARRV,3266.75,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB320.pdb
+Bcl-xL,LIB319,MRPEIWFAQEFDRFGDEFNAYYARRV,3314.79,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB319.pdb
+Bcl-xL,LIB318,MRPEIWFAQEFDRIGDENNAYYARRV,3247.71,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB318.pdb
+Bcl-xL,LIB317,MRPEIWFAQEFDRIGDEVNAYYARRV,3232.74,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB317.pdb
+Bcl-xL,LIB316,MRPEIWFAQEFDRIGDEFNAYYARRV,3280.78,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB316.pdb
+Bcl-xL,LIB315,MRPEIWFAQEFRRAGDENNAYYARRV,3246.72,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB315.pdb
+Bcl-xL,LIB314,MRPEIWFAQEFRRAGDEVNAYYARRV,3231.75,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB314.pdb
+Bcl-xL,LIB312,MRPEIWFAQEFRRNGDENNAYYARRV,3289.75,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB312.pdb
+Bcl-xL,LIB303,MRPEIWFAQEFRRIGDENNAYYARRV,3288.81,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB303.pdb
+Bcl-xL,LIB305,MRPEIWFAQEFRRFGDEVNAYYARRV,3307.85,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB305.pdb
+Bcl-xL,LIB306,MRPEIWFAQEFRRFGDENNAYYARRV,3322.82,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB306.pdb
+Bcl-xL,LIB307,MRPEIWFAQEFRRDGDEFNAYYARRV,3323.8,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB307.pdb
+Bcl-xL,LIB309,MRPEIWFAQEFRRDGDENNAYYARRV,3290.73,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB309.pdb
+Bcl-xL,LIB313,MRPEIWFAQEFRRAGDEFNAYYARRV,3279.79,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB313.pdb
+Bcl-xL,LIB311,MRPEIWFAQEFRRNGDEVNAYYARRV,3274.78,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB311.pdb
+Bcl-xL,LIB308,MRPEIWFAQEFRRDGDEVNAYYARRV,3275.76,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB308.pdb
+Bcl-xL,LIB310,MRPEIWFAQEFRRNGDEFNAYYARRV,3322.82,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB310.pdb
+Bcl-xL,LIB179,MRPEIWAAQEIDRAGDEVNAYYARRV,3080.54,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB179.pdb
+Bcl-xL,LIB180,MRPEIWAAQEIDRAGDENNAYYARRV,3095.51,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB180.pdb
+Bcl-xL,LIB181,MRPEIWAAQEFRRIGDEFNAYYARRV,3245.78,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB181.pdb
+Bcl-xL,LIB182,MRPEIWAAQEFRRIGDEVNAYYARRV,3197.74,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB182.pdb
+Bcl-xL,LIB183,MRPEIWAAQEFRRIGDENNAYYARRV,3212.71,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB183.pdb
+Bcl-xL,LIB184,MRPEIWAAQEFRRFGDEFNAYYARRV,3279.79,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB184.pdb
+Bcl-xL,LIB185,MRPEIWAAQEFRRFGDEVNAYYARRV,3231.75,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB185.pdb
+Bcl-xL,LIB186,MRPEIWAAQEFRRFGDENNAYYARRV,3246.72,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB186.pdb
+Bcl-xL,LIB187,MRPEIWAAQEFRRDGDEFNAYYARRV,3247.7,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB187.pdb
+Bcl-xL,LIB188,MRPEIWAAQEFRRDGDEVNAYYARRV,3199.66,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB188.pdb
+Bcl-xL,LIB189,MRPEIWAAQEFRRDGDENNAYYARRV,3214.63,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB189.pdb
+Bcl-xL,LIB190,MRPEIWAAQEFRRNGDEFNAYYARRV,3246.72,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB190.pdb
+Bcl-xL,LIB191,MRPEIWAAQEFRRNGDEVNAYYARRV,3198.68,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB191.pdb
+Bcl-xL,LIB192,MRPEIWAAQEFRRNGDENNAYYARRV,3213.65,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB192.pdb
+Bcl-xL,LIB193,MRPEIWAAQEFRRAGDEFNAYYARRV,3203.69,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB193.pdb
+Bcl-xL,LIB194,MRPEIWAAQEFRRAGDEVNAYYARRV,3155.65,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB194.pdb
+Bcl-xL,LIB195,MRPEIWAAQEFRRAGDENNAYYARRV,3170.62,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB195.pdb
+Bcl-xL,LIB196,MRPEIWAAQEFDRIGDEFNAYYARRV,3204.68,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB196.pdb
+Bcl-xL,LIB197,MRPEIWAAQEFDRIGDEVNAYYARRV,3156.64,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB197.pdb
+Bcl-xL,LIB198,MRPEIWAAQEFDRIGDENNAYYARRV,3171.61,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB198.pdb
+Bcl-xL,LIB199,MRPEIWAAQEFDRFGDEFNAYYARRV,3238.69,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB199.pdb
+Bcl-xL,LIB200,MRPEIWAAQEFDRFGDEVNAYYARRV,3190.65,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB200.pdb
+Bcl-xL,LIB201,MRPEIWAAQEFDRFGDENNAYYARRV,3205.62,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB201.pdb
+Bcl-xL,LIB202,MRPEIWAAQEFDRDGDEFNAYYARRV,3206.6,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB202.pdb
+Bcl-xL,LIB203,MRPEIWAAQEFDRDGDEVNAYYARRV,3158.56,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB203.pdb
+Bcl-xL,LIB204,MRPEIWAAQEFDRDGDENNAYYARRV,3173.53,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB204.pdb
+Bcl-xL,LIB205,MRPEIWAAQEFDRNGDEFNAYYARRV,3205.62,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB205.pdb
+Bcl-xL,LIB206,MRPEIWAAQEFDRNGDEVNAYYARRV,3157.58,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB206.pdb
+Bcl-xL,LIB207,MRPEIWAAQEFDRNGDENNAYYARRV,3172.55,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB207.pdb
+Bcl-xL,LIB208,MRPEIWAAQEFDRAGDEFNAYYARRV,3162.59,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB208.pdb
+Bcl-xL,LIB209,MRPEIWAAQEFDRAGDEVNAYYARRV,3114.55,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB209.pdb
+Bcl-xL,LIB210,MRPEIWAAQEFDRAGDENNAYYARRV,3129.52,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB210.pdb
+Bcl-xL,LIB211,MRPEIWAAQEARRIGDEFNAYYARRV,3169.68,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB211.pdb
+Bcl-xL,LIB212,MRPEIWAAQEARRIGDEVNAYYARRV,3121.64,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB212.pdb
+Bcl-xL,LIB213,MRPEIWAAQEARRIGDENNAYYARRV,3136.61,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB213.pdb
+Bcl-xL,LIB214,MRPEIWAAQEARRFGDEFNAYYARRV,3203.69,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB214.pdb
+Bcl-xL,LIB215,MRPEIWAAQEARRFGDEVNAYYARRV,3155.65,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB215.pdb
+Bcl-xL,LIB216,MRPEIWAAQEARRFGDENNAYYARRV,3170.62,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB216.pdb
+Bcl-xL,LIB217,MRPEIWAAQEARRDGDEFNAYYARRV,3171.6,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB217.pdb
+Bcl-xL,LIB218,MRPEIWAAQEARRDGDEVNAYYARRV,3123.56,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB218.pdb
+Bcl-xL,LIB219,MRPEIWAAQEARRDGDENNAYYARRV,3138.53,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB219.pdb
+Bcl-xL,LIB220,MRPEIWAAQEARRNGDEFNAYYARRV,3170.62,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB220.pdb
+Bcl-xL,LIB221,MRPEIWAAQEARRNGDEVNAYYARRV,3122.58,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB221.pdb
+Bcl-xL,LIB222,MRPEIWAAQEARRNGDENNAYYARRV,3137.55,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB222.pdb
+Bcl-xL,LIB223,MRPEIWAAQEARRAGDEFNAYYARRV,3127.59,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB223.pdb
+Bcl-xL,LIB224,MRPEIWAAQEARRAGDEVNAYYARRV,3079.55,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB224.pdb
+Bcl-xL,LIB225,MRPEIWAAQEARRAGDENNAYYARRV,3094.52,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB225.pdb
+Bcl-xL,LIB226,MRPEIWAAQEADRIGDEFNAYYARRV,3128.58,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB226.pdb
+Bcl-xL,LIB227,MRPEIWAAQEADRIGDEVNAYYARRV,3080.54,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB227.pdb
+Bcl-xL,LIB228,MRPEIWAAQEADRIGDENNAYYARRV,3095.51,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB228.pdb
+Bcl-xL,LIB229,MRPEIWAAQEADRFGDEFNAYYARRV,3162.59,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB229.pdb
+Bcl-xL,LIB230,MRPEIWAAQEADRFGDEVNAYYARRV,3114.55,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB230.pdb
+Bcl-xL,LIB231,MRPEIWAAQEADRFGDENNAYYARRV,3129.52,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB231.pdb
+Bcl-xL,LIB232,MRPEIWAAQEADRDGDEFNAYYARRV,3130.5,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB232.pdb
+Bcl-xL,LIB233,MRPEIWAAQEADRDGDEVNAYYARRV,3082.46,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB233.pdb
+Bcl-xL,LIB234,MRPEIWAAQEADRDGDENNAYYARRV,3097.43,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB234.pdb
+Bcl-xL,LIB235,MRPEIWAAQEADRNGDEFNAYYARRV,3129.52,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB235.pdb
+Bcl-xL,LIB236,MRPEIWAAQEADRNGDEVNAYYARRV,3081.48,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB236.pdb
+Bcl-xL,LIB237,MRPEIWAAQEADRNGDENNAYYARRV,3096.45,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB237.pdb
+Bcl-xL,LIB238,MRPEIWAAQEADRAGDEFNAYYARRV,3086.49,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB238.pdb
+Bcl-xL,LIB239,MRPEIWAAQEADRAGDEVNAYYARRV,3038.45,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB239.pdb
+Bcl-xL,LIB240,MRPEIWAAQEADRAGDENNAYYARRV,3053.42,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB240.pdb
+Bcl-xL,LIB242,MRPEIWFAQELRRIGDEVNAYYARRV,3239.83,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB242.pdb
+Bcl-xL,LIB243,MRPEIWFAQELRRIGDENNAYYARRV,3254.8,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB243.pdb
+Bcl-xL,LIB244,MRPEIWFAQELRRFGDEFNAYYARRV,3321.88,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB244.pdb
+Bcl-xL,LIB245,MRPEIWFAQELRRFGDEVNAYYARRV,3273.84,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB245.pdb
+Bcl-xL,LIB246,MRPEIWFAQELRRFGDENNAYYARRV,3288.81,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB246.pdb
+Bcl-xL,LIB247,MRPEIWFAQELRRDGDEFNAYYARRV,3289.79,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB247.pdb
+Bcl-xL,LIB248,MRPEIWFAQELRRDGDEVNAYYARRV,3241.75,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB248.pdb
+Bcl-xL,LIB249,MRPEIWFAQELRRDGDENNAYYARRV,3256.72,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB249.pdb
+Bcl-xL,LIB250,MRPEIWFAQELRRNGDEFNAYYARRV,3288.81,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB250.pdb
+Bcl-xL,LIB251,MRPEIWFAQELRRNGDEVNAYYARRV,3240.77,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB251.pdb
+Bcl-xL,LIB252,MRPEIWFAQELRRNGDENNAYYARRV,3255.74,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB252.pdb
+Bcl-xL,LIB253,MRPEIWFAQELRRAGDEFNAYYARRV,3245.78,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB253.pdb
+Bcl-xL,LIB254,MRPEIWFAQELRRAGDEVNAYYARRV,3197.74,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB254.pdb
+Bcl-xL,LIB255,MRPEIWFAQELRRAGDENNAYYARRV,3212.71,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB255.pdb
+Bcl-xL,LIB256,MRPEIWFAQELDRIGDEFNAYYARRV,3246.77,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB256.pdb
+Bcl-xL,LIB257,MRPEIWFAQELDRIGDEVNAYYARRV,3198.73,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB257.pdb
+Bcl-xL,LIB258,MRPEIWFAQELDRIGDENNAYYARRV,3213.7,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB258.pdb
+Bcl-xL,LIB259,MRPEIWFAQELDRFGDEFNAYYARRV,3280.78,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB259.pdb
+Bcl-xL,LIB260,MRPEIWFAQELDRFGDEVNAYYARRV,3232.74,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB260.pdb
+Bcl-xL,LIB261,MRPEIWFAQELDRFGDENNAYYARRV,3247.71,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB261.pdb
+Bcl-xL,LIB262,MRPEIWFAQELDRDGDEFNAYYARRV,3248.69,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB262.pdb
+Bcl-xL,LIB263,MRPEIWFAQELDRDGDEVNAYYARRV,3200.65,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB263.pdb
+Bcl-xL,LIB264,MRPEIWFAQELDRDGDENNAYYARRV,3215.62,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB264.pdb
+Bcl-xL,LIB265,MRPEIWFAQELDRNGDEFNAYYARRV,3247.71,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB265.pdb
+Bcl-xL,LIB266,MRPEIWFAQELDRNGDEVNAYYARRV,3199.67,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB266.pdb
+Bcl-xL,LIB267,MRPEIWFAQELDRNGDENNAYYARRV,3214.64,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB267.pdb
+Bcl-xL,LIB268,MRPEIWFAQELDRAGDEFNAYYARRV,3204.68,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB268.pdb
+Bcl-xL,LIB269,MRPEIWFAQELDRAGDEVNAYYARRV,3156.64,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB269.pdb
+Bcl-xL,LIB270,MRPEIWFAQELDRAGDENNAYYARRV,3171.61,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB270.pdb
+Bcl-xL,LIB271,MRPEIWFAQEIRRIGDEFNAYYARRV,3287.87,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB271.pdb
+Bcl-xL,LIB272,MRPEIWFAQEIRRIGDEVNAYYARRV,3239.83,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB272.pdb
+Bcl-xL,LIB273,MRPEIWFAQEIRRIGDENNAYYARRV,3254.8,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB273.pdb
+Bcl-xL,LIB274,MRPEIWFAQEIRRFGDEFNAYYARRV,3321.88,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB274.pdb
+Bcl-xL,LIB275,MRPEIWFAQEIRRFGDEVNAYYARRV,3273.84,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB275.pdb
+Bcl-xL,LIB276,MRPEIWFAQEIRRFGDENNAYYARRV,3288.81,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB276.pdb
+Bcl-xL,LIB277,MRPEIWFAQEIRRDGDEFNAYYARRV,3289.79,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB277.pdb
+Bcl-xL,LIB278,MRPEIWFAQEIRRDGDEVNAYYARRV,3241.75,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB278.pdb
+Bcl-xL,LIB279,MRPEIWFAQEIRRDGDENNAYYARRV,3256.72,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB279.pdb
+Bcl-xL,LIB280,MRPEIWFAQEIRRNGDEFNAYYARRV,3288.81,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB280.pdb
+Bcl-xL,LIB281,MRPEIWFAQEIRRNGDEVNAYYARRV,3240.77,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB281.pdb
+Bcl-xL,LIB282,MRPEIWFAQEIRRNGDENNAYYARRV,3255.74,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB282.pdb
+Bcl-xL,Noxa,AELEVECATQLRRFGDKLNFRQKL,2865.43,L,Linear,PROTEIN SCIENCE,2010,PDB_Files/Noxa.pdb
+Bcl-xL,Noxa_C2dY,AELEVEYATQLRRFGDKLNFRQKL,2925.47,L,Linear,PROTEIN SCIENCE,2010,PDB_Files/Noxa_C2dY.pdb
+Bcl-xL,Bim_A2eV,MRPEIWIVQELRRIGDEFNAYYARRV,3281.92,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_A2eV.pdb
+Bcl-xL,Bim_A2eI,MRPEIWIIQELRRIGDEFNAYYARRV,3295.95,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_A2eI.pdb
+Bcl-xL,Bim_A2eL,MRPEIWILQELRRIGDEFNAYYARRV,3295.95,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_A2eL.pdb
+Bcl-xL,Bim_A2eF,MRPEIWIFQELRRIGDEFNAYYARRV,3329.96,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_A2eF.pdb
+Bcl-xL,Bim_A2eY,MRPEIWIYQELRRIGDEFNAYYARRV,3345.96,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_A2eY.pdb
+Bcl-xL,Bim_A2eW,MRPEIWIWQELRRIGDEFNAYYARRV,3369.0,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_A2eW.pdb
+Bcl-xL,Bim_E2gD,MRPEIWIAQDLRRIGDEFNAYYARRV,3239.83,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E2gD.pdb
+Bcl-xL,Bim_E2gK,MRPEIWIAQKLRRIGDEFNAYYARRV,3252.92,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E2gK.pdb
+Bcl-xL,Bim_E2gR,MRPEIWIAQRLRRIGDEFNAYYARRV,3280.93,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E2gR.pdb
+Bcl-xL,Bim_E2gH,MRPEIWIAQHLRRIGDEFNAYYARRV,3261.89,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E2gH.pdb
+Bcl-xL,Bim_E2gN,MRPEIWIAQNLRRIGDEFNAYYARRV,3238.85,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E2gN.pdb
+Bcl-xL,Bim_E2gQ,MRPEIWIAQQLRRIGDEFNAYYARRV,3252.88,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E2gQ.pdb
+Bcl-xL,Bim_E2gS,MRPEIWIAQSLRRIGDEFNAYYARRV,3211.82,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E2gS.pdb
+Bcl-xL,Bim_E2gT,MRPEIWIAQTLRRIGDEFNAYYARRV,3225.85,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E2gT.pdb
+Bcl-xL,Bim_E2gP,MRPEIWIAQPLRRIGDEFNAYYARRV,3221.86,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E2gP.pdb
+Bcl-xL,Bim_E2gG,MRPEIWIAQGLRRIGDEFNAYYARRV,3181.8,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E2gG.pdb
+Bcl-xL,Bim_E2gA,MRPEIWIAQALRRIGDEFNAYYARRV,3195.82,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E2gA.pdb
+Bcl-xL,Bim_EgV,MRPEIWIAQVLRRIGDEFNAYYARRV,3223.88,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_EgV.pdb
+Bcl-xL,Bim_E2gI,MRPEIWIAQILRRIGDEFNAYYARRV,3237.91,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E2gI.pdb
+Bcl-xL,Bim_E2gL,MRPEIWIAQLLRRIGDEFNAYYARRV,3237.91,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E2gL.pdb
+Bcl-xL,Bim_E2gF,MRPEIWIAQFLRRIGDEFNAYYARRV,3271.92,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E2gF.pdb
+Bcl-xL,Bim_E2gY,MRPEIWIAQYLRRIGDEFNAYYARRV,3287.92,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E2gY.pdb
+Bcl-xL,Bim_E2gW,MRPEIWIAQWLRRIGDEFNAYYARRV,3310.96,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E2gW.pdb
+Bcl-xL,Bim_L3aD,MRPEIWIAQEDRRIGDEFNAYYARRV,3255.78,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_L3aD.pdb
+Bcl-xL,Bim_L3aE,MRPEIWIAQEERRIGDEFNAYYARRV,3269.81,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_L3aE.pdb
+Bcl-xL,Bim_L3aK,MRPEIWIAQEKRRIGDEFNAYYARRV,3268.87,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_L3aK.pdb
+Bcl-xL,Bim_L3aR,MRPEIWIAQERRRIGDEFNAYYARRV,3296.88,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_L3aR.pdb
+Bcl-xL,Bim_L3aH,MRPEIWIAQEHRRIGDEFNAYYARRV,3277.84,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_L3aH.pdb
+Bcl-xL,Bim_L3aN,MRPEIWIAQENRRIGDEFNAYYARRV,3254.8,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_L3aN.pdb
+Bcl-xL,Bim_L3aQ,MRPEIWIAQEQRRIGDEFNAYYARRV,3268.83,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_L3aQ.pdb
+Bcl-xL,Bim_L3aS,MRPEIWIAQESRRIGDEFNAYYARRV,3227.77,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_L3aS.pdb
+Bcl-xL,Bim_L3aT,MRPEIWIAQETRRIGDEFNAYYARRV,3241.8,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_L3aT.pdb
+Bcl-xL,Bim_L3aP,MRPEIWIAQEPRRIGDEFNAYYARRV,3237.81,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_L3aP.pdb
+Bcl-xL,Bim_L3aG,MRPEIWIAQEGRRIGDEFNAYYARRV,3197.75,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_L3aG.pdb
+Bcl-xL,Bim_L3aA,MRPEIWIAQEARRIGDEFNAYYARRV,3211.77,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_L3aA.pdb
+Bcl-xL,Bim_L3aV,MRPEIWIAQEVRRIGDEFNAYYARRV,3239.83,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_L3aV.pdb
+Bcl-xL,Bim_L3aI,MRPEIWIAQEIRRIGDEFNAYYARRV,3253.86,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_L3aI.pdb
+Bcl-xL,Bim_L3aF,MRPEIWIAQEFRRIGDEFNAYYARRV,3287.87,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_L3aF.pdb
+Bcl-xL,Bim_L3aY,MRPEIWIAQEYRRIGDEFNAYYARRV,3303.87,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_L3aY.pdb
+Bcl-xL,Bim_L3aW,MRPEIWIAQEWRRIGDEFNAYYARRV,3326.91,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_L3aW.pdb
+Bcl-xL,Bim_R3bD,MRPEIWIAQELDRIGDEFNAYYARRV,3212.76,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_R3bD.pdb
+Bcl-xL,Bim_R3bE,MRPEIWIAQELERIGDEFNAYYARRV,3226.79,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_R3bE.pdb
+Bcl-xL,Bim_R3bK,MRPEIWIAQELKRIGDEFNAYYARRV,3225.85,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_R3bK.pdb
+Bcl-xL,Bim_R3bH,MRPEIWIAQELHRIGDEFNAYYARRV,3234.82,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_R3bH.pdb
+Bcl-xL,Bim_R3bN,MRPEIWIAQELNRIGDEFNAYYARRV,3211.78,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_R3bN.pdb
+Bcl-xL,Bim_R3bQ,MRPEIWIAQELQRIGDEFNAYYARRV,3225.81,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_R3bQ.pdb
+Bcl-xL,Bim_R3bS,MRPEIWIAQELSRIGDEFNAYYARRV,3184.75,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_R3bS.pdb
+Bcl-xL,Bim_R3bT,MRPEIWIAQELTRIGDEFNAYYARRV,3198.78,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_R3bT.pdb
+Bcl-xL,Bim_R3bP,MRPEIWIAQELPRIGDEFNAYYARRV,3194.79,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_R3bP.pdb
+Bcl-xL,Bim_R3bG,MRPEIWIAQELGRIGDEFNAYYARRV,3154.73,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_R3bG.pdb
+Bcl-xL,Bim_R3bA,MRPEIWIAQELARIGDEFNAYYARRV,3168.75,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_R3bA.pdb
+Bcl-xL,Bim_R3bV,MRPEIWIAQELVRIGDEFNAYYARRV,3196.81,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_R3bV.pdb
+Bcl-xL,Bim_R3bI,MRPEIWIAQELIRIGDEFNAYYARRV,3309.98,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_R3bI.pdb
+Bcl-xL,Bim_R3bL,MRPEIWIAQELLRIGDEFNAYYARRV,3210.84,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_R3bL.pdb
+Bcl-xL,Bim_R3bF,MRPEIWIAQELFRIGDEFNAYYARRV,3244.85,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_R3bF.pdb
+Bcl-xL,Bim_R3bY,MRPEIWIAQELYRIGDEFNAYYARRV,3260.85,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_R3bY.pdb
+Bcl-xL,Bim_R3bW,MRPEIWIAQELWRIGDEFNAYYARRV,3283.89,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_R3bW.pdb
+Bcl-xL,Bim_I3dD,MRPEIWIAQELRRDGDEFNAYYARRV,3255.78,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I3dD.pdb
+Bcl-xL,Bim_I3dE,MRPEIWIAQELRREGDEFNAYYARRV,3269.81,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I3dE.pdb
+Bcl-xL,Bim_I3dK,MRPEIWIAQELRRKGDEFNAYYARRV,3268.87,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I3dK.pdb
+Bcl-xL,Bim_I3dR,MRPEIWIAQELRRRGDEFNAYYARRV,3296.88,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I3dR.pdb
+Bcl-xL,Bim_I3dH,MRPEIWIAQELRRHGDEFNAYYARRV,3277.84,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I3dH.pdb
+Bcl-xL,Bim_I3dN,MRPEIWIAQELRRNGDEFNAYYARRV,3254.8,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I3dN.pdb
+Bcl-xL,Bim_I3dQ,MRPEIWIAQELRRQGDEFNAYYARRV,3268.83,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I3dQ.pdb
+Bcl-xL,Bim_I3dS,MRPEIWIAQELRRSGDEFNAYYARRV,3227.77,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I3dS.pdb
+Bcl-xL,Bim_I3dT,MRPEIWIAQELRRTGDEFNAYYARRV,3241.8,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I3dT.pdb
+Bcl-xL,Bim_I3dP,MRPEIWIAQELRRPGDEFNAYYARRV,3237.81,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I3dP.pdb
+Bcl-xL,Bim_I3dG,MRPEIWIAQELRRGGDEFNAYYARRV,3197.75,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I3dG.pdb
+Bcl-xL,Bim_I3dA,MRPEIWIAQELRRAGDEFNAYYARRV,3211.77,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I3dA.pdb
+Bcl-xL,Bim_I3dV,MRPEIWIAQELRRVGDEFNAYYARRV,3239.83,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I3dV.pdb
+Bcl-xL,Bim_I3dL,MRPEIWIAQELRRLGDEFNAYYARRV,3253.86,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I3dL.pdb
+Bcl-xL,Bim_I3dF,MRPEIWIAQELRRFGDEFNAYYARRV,3287.87,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I3dF.pdb
+Bcl-xL,Bim_I3dY,MRPEIWIAQELRRYGDEFNAYYARRV,3303.87,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I3dY.pdb
+Bcl-xL,Bim_I3dW,MRPEIWIAQELRRWGDEFNAYYARRV,3326.91,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I3dW.pdb
+Bcl-xL,Bim_G3eD,MRPEIWIAQELRRIDDEFNAYYARRV,3311.89,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_G3eD.pdb
+Bcl-xL,Bim_G3eE,MRPEIWIAQELRRIEDEFNAYYARRV,3325.92,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_G3eE.pdb
+Bcl-xL,Bim_G3eK,MRPEIWIAQELRRIKDEFNAYYARRV,3324.98,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_G3eK.pdb
+Bcl-xL,Bim_G3eR,MRPEIWIAQELRRIRDEFNAYYARRV,3352.99,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_G3eR.pdb
+Bcl-xL,Bim_G3eH,MRPEIWIAQELRRIHDEFNAYYARRV,3333.95,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_G3eH.pdb
+Bcl-xL,Bim_G3eN,MRPEIWIAQELRRINDEFNAYYARRV,3310.91,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_G3eN.pdb
+Bcl-xL,Bim_G3eQ,MRPEIWIAQELRRIQDEFNAYYARRV,3324.94,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_G3eQ.pdb
+Bcl-xL,Bim_G3eS,MRPEIWIAQELRRISDEFNAYYARRV,3283.88,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_G3eS.pdb
+Bcl-xL,Bim_G3eT,MRPEIWIAQELRRITDEFNAYYARRV,3297.91,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_G3eT.pdb
+Bcl-xL,Bim_G3eP,MRPEIWIAQELRRIPDEFNAYYARRV,3293.92,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_G3eP.pdb
+Bcl-xL,Bim_G3eA,MRPEIWIAQELRRIADEFNAYYARRV,3267.88,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_G3eA.pdb
+Bcl-xL,Bim_G3eV,MRPEIWIAQELRRIVDEFNAYYARRV,3295.94,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_G3eV.pdb
+Bcl-xL,Bim_G3eI,MRPEIWIAQELRRIIDEFNAYYARRV,3309.97,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_G3eI.pdb
+Bcl-xL,Bim_G3eL,MRPEIWIAQELRRILDEFNAYYARRV,3309.97,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_G3eL.pdb
+Bcl-xL,Bim_G3eF,MRPEIWIAQELRRIFDEFNAYYARRV,3343.98,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_G3eF.pdb
+Bcl-xL,Bim_G3eY,MRPEIWIAQELRRIYDEFNAYYARRV,3359.98,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_G3eY.pdb
+Bcl-xL,Bim_G3eW,MRPEIWIAQELRRIWDEFNAYYARRV,3383.02,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_G3eW.pdb
+Bcl-xL,Bim_D3fE,MRPEIWIAQELRRIGEEFNAYYARRV,3267.89,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_D3fE.pdb
+Bcl-xL,Bim_D3fK,MRPEIWIAQELRRIGKEFNAYYARRV,3266.95,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_D3fK.pdb
+Bcl-xL,Bim_D3fR,MRPEIWIAQELRRIGREFNAYYARRV,3294.96,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_D3fR.pdb
+Bcl-xL,Bim_D3fH,MRPEIWIAQELRRIGHEFNAYYARRV,3275.92,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_D3fH.pdb
+Bcl-xL,Bim_D3fN,MRPEIWIAQELRRIGNEFNAYYARRV,3252.88,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_D3fN.pdb
+Bcl-xL,Bim_D3fQ,MRPEIWIAQELRRIGQEFNAYYARRV,3266.91,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_D3fQ.pdb
+Bcl-xL,Bim_D3fS,MRPEIWIAQELRRIGSEFNAYYARRV,3225.85,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_D3fS.pdb
+Bcl-xL,Bim_D3fT,MRPEIWIAQELRRIGTEFNAYYARRV,3239.88,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_D3fT.pdb
+Bcl-xL,Bim_D3fP,MRPEIWIAQELRRIGPEFNAYYARRV,3235.89,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_D3fP.pdb
+Bcl-xL,Bim_D3fG,MRPEIWIAQELRRIGGEFNAYYARRV,3195.83,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_D3fG.pdb
+Bcl-xL,Bim_D3fA,MRPEIWIAQELRRIGAEFNAYYARRV,3209.85,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_D3fA.pdb
+Bcl-xL,Bim_D3fV,MRPEIWIAQELRRIGVEFNAYYARRV,3237.91,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_D3fV.pdb
+Bcl-xL,Bim_D3fI,MRPEIWIAQELRRIGIEFNAYYARRV,3251.94,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_D3fI.pdb
+Bcl-xL,Bim_D3fL,MRPEIWIAQELRRIGLEFNAYYARRV,3251.94,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_D3fL.pdb
+Bcl-xL,Bim_D3fF,MRPEIWIAQELRRIGFEFNAYYARRV,3285.95,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_D3fF.pdb
+Bcl-xL,Bim_D3fY,MRPEIWIAQELRRIGYEFNAYYARRV,3301.95,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_D3fY.pdb
+Bcl-xL,Bim_D3fW,MRPEIWIAQELRRIGWEFNAYYARRV,3324.99,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_D3fW.pdb
+Bcl-xL,Bim_E3gD,MRPEIWIAQELRRIGDDFNAYYARRV,3239.83,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E3gD.pdb
+Bcl-xL,Bim_E3gK,MRPEIWIAQELRRIGDKFNAYYARRV,3252.92,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E3gK.pdb
+Bcl-xL,Bim_E3gR,MRPEIWIAQELRRIGDRFNAYYARRV,3280.93,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E3gR.pdb
+Bcl-xL,Bim_E3gH,MRPEIWIAQELRRIGDHFNAYYARRV,3261.89,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E3gH.pdb
+Bcl-xL,Bim_E3gN,MRPEIWIAQELRRIGDNFNAYYARRV,3238.85,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E3gN.pdb
+Bcl-xL,Bim_E3gQ,MRPEIWIAQELRRIGDQFNAYYARRV,3252.88,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E3gQ.pdb
+Bcl-xL,Bim_E3gS,MRPEIWIAQELRRIGDSFNAYYARRV,3211.82,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E3gS.pdb
+Bcl-xL,Bim_E3gT,MRPEIWIAQELRRIGDTFNAYYARRV,3225.85,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E3gT.pdb
+Bcl-xL,Bim_E3gP,MRPEIWIAQELRRIGDPFNAYYARRV,3221.86,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E3gP.pdb
+Bcl-xL,Bim_E3gG,MRPEIWIAQELRRIGDGFNAYYARRV,3181.8,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E3gG.pdb
+Bcl-xL,Bim_E3gA,MRPEIWIAQELRRIGDAFNAYYARRV,3195.82,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E3gA.pdb
+Bcl-xL,Bim_E3gV,MRPEIWIAQELRRIGDVFNAYYARRV,3223.88,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E3gV.pdb
+Bcl-xL,Bim_E3gI,MRPEIWIAQELRRIGDIFNAYYARRV,3237.91,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E3gI.pdb
+Bcl-xL,Bim_E3gL,MRPEIWIAQELRRIGDLFNAYYARRV,3237.91,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E3gL.pdb
+Bcl-xL,Bim_E3gF,MRPEIWIAQELRRIGDFFNAYYARRV,3271.92,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E3gF.pdb
+Bcl-xL,Bim_E3gY,MRPEIWIAQELRRIGDYFNAYYARRV,3287.92,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E3gY.pdb
+Bcl-xL,Bim_E3gW,MRPEIWIAQELRRIGDWFNAYYARRV,3310.96,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_E3gW.pdb
+Bcl-xL,Bim_F4aD,MRPEIWIAQELRRIGDEDNAYYARRV,3221.77,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_F4aD.pdb
+Bcl-xL,Bim_F4aE,MRPEIWIAQELRRIGDEENAYYARRV,3235.8,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_F4aE.pdb
+Bcl-xL,Bim_F4aK,MRPEIWIAQELRRIGDEKNAYYARRV,3234.86,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_F4aK.pdb
+Bcl-xL,Bim_F4aR,MRPEIWIAQELRRIGDERNAYYARRV,3262.87,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_F4aR.pdb
+Bcl-xL,Bim_F4aH,MRPEIWIAQELRRIGDEHNAYYARRV,3243.83,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_F4aH.pdb
+Bcl-xL,Bim_F4aN,MRPEIWIAQELRRIGDENNAYYARRV,3220.79,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_F4aN.pdb
+Bcl-xL,Bim_F4aQ,MRPEIWIAQELRRIGDEQNAYYARRV,3234.82,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_F4aQ.pdb
+Bcl-xL,Bim_F4aS,MRPEIWIAQELRRIGDESNAYYARRV,3193.76,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_F4aS.pdb
+Bcl-xL,Bim_F4aT,MRPEIWIAQELRRIGDETNAYYARRV,3207.79,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_F4aT.pdb
+Bcl-xL,Bim_F4aP,MRPEIWIAQELRRIGDEPNAYYARRV,3203.8,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_F4aP.pdb
+Bcl-xL,Bim_F4aG,MRPEIWIAQELRRIGDEGNAYYARRV,3163.74,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_F4aG.pdb
+Bcl-xL,Bim_F4aA,MRPEIWIAQELRRIGDEANAYYARRV,3177.76,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_F4aA.pdb
+Bcl-xL,Bim_F4aV,MRPEIWIAQELRRIGDEVNAYYARRV,3205.82,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_F4aV.pdb
+Bcl-xL,Bim_F4aI,MRPEIWIAQELRRIGDEINAYYARRV,3219.85,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_F4aI.pdb
+Bcl-xL,Bim_F4aL,MRPEIWIAQELRRIGDELNAYYARRV,3219.85,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_F4aL.pdb
+Bcl-xL,Bim_F4aY,MRPEIWIAQELRRIGDEYNAYYARRV,3269.86,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_F4aY.pdb
+Bcl-xL,Bim_F4aW,MRPEIWIAQELRRIGDEWNAYYARRV,3292.9,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_F4aW.pdb
+Bcl-xL,LIB5,MRPEIWIAQELRRFGDEVNAYYARRV,3239.83,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB5.pdb
+Bcl-xL,LIB6,MRPEIWIAQELRRFGDENNAYYARRV,3254.8,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB6.pdb
+Bcl-xL,LIB8,MRPEIWIAQELRRDGDEVNAYYARRV,3207.74,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB8.pdb
+Bcl-xL,LIB9,MRPEIWIAQELRRDGDENNAYYARRV,3222.71,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB9.pdb
+Bcl-xL,LIB10,MRPEIWIAQELRRNGDEFNAYYARRV,3254.8,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB10.pdb
+Bcl-xL,LIB11,MRPEIWIAQELRRNGDEVNAYYARRV,3206.76,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB11.pdb
+Bcl-xL,LIB12,MRPEIWIAQELRRNGDENNAYYARRV,3221.73,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB12.pdb
+Bcl-xL,LIB14,MRPEIWIAQELRRAGDEVNAYYARRV,3163.73,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB14.pdb
+Bcl-xL,LIB15,MRPEIWIAQELRRAGDENNAYYARRV,3178.7,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB15.pdb
+Bcl-xL,LIB17,MRPEIWIAQELDRIGDEVNAYYARRV,3164.72,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB17.pdb
+Bcl-xL,LIB18,MRPEIWIAQELDRIGDENNAYYARRV,3179.69,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB18.pdb
+Bcl-xL,LIB19,MRPEIWIAQELDRFGDEFNAYYARRV,3246.77,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB19.pdb
+Bcl-xL,LIB20,MRPEIWIAQELDRFGDEVNAYYARRV,3198.73,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB20.pdb
+Bcl-xL,LIB21,MRPEIWIAQELDRFGDENNAYYARRV,3213.7,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB21.pdb
+Bcl-xL,LIB22,MRPEIWIAQELDRDGDEFNAYYARRV,3214.68,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB22.pdb
+Bcl-xL,LIB23,MRPEIWIAQELDRDGDEVNAYYARRV,3166.64,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB23.pdb
+Bcl-xL,LIB24,MRPEIWIAQELDRDGDENNAYYARRV,3181.61,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB24.pdb
+Bcl-xL,LIB25,MRPEIWIAQELDRNGDEFNAYYARRV,3213.7,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB25.pdb
+Bcl-xL,LIB26,MRPEIWIAQELDRNGDEVNAYYARRV,3165.66,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB26.pdb
+Bcl-xL,LIB27,MRPEIWIAQELDRNGDENNAYYARRV,3180.63,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB27.pdb
+Bcl-xL,LIB28,MRPEIWIAQELDRAGDEFNAYYARRV,3170.67,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB28.pdb
+Bcl-xL,LIB29,MRPEIWIAQELDRAGDEVNAYYARRV,3122.63,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB29.pdb
+Bcl-xL,LIB30,MRPEIWIAQELDRAGDENNAYYARRV,3137.6,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB30.pdb
+Bcl-xL,LIB32,MRPEIWIAQEIRRIGDEVNAYYARRV,3205.82,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB32.pdb
+Bcl-xL,LIB33,MRPEIWIAQEIRRIGDENNAYYARRV,3220.79,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB33.pdb
+Bcl-xL,LIB34,MRPEIWIAQEIRRFGDEFNAYYARRV,3287.87,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB34.pdb
+Bcl-xL,LIB35,MRPEIWIAQEIRRFGDEVNAYYARRV,3239.83,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB35.pdb
+Bcl-xL,LIB36,MRPEIWIAQEIRRFGDENNAYYARRV,3254.8,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB36.pdb
+Bcl-xL,LIB37,MRPEIWIAQEIRRDGDEFNAYYARRV,3255.78,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB37.pdb
+Bcl-xL,LIB38,MRPEIWIAQEIRRDGDEVNAYYARRV,3207.74,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB38.pdb
+Bcl-xL,LIB39,MRPEIWIAQEIRRDGDENNAYYARRV,3222.71,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB39.pdb
+Bcl-xL,LIB40,MRPEIWIAQEIRRNGDEFNAYYARRV,3254.8,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB40.pdb
+Bcl-xL,LIB41,MRPEIWIAQEIRRNGDEVNAYYARRV,3206.76,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB41.pdb
+Bcl-xL,LIB42,MRPEIWIAQEIRRNGDENNAYYARRV,3221.73,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB42.pdb
+Bcl-xL,LIB43,MRPEIWIAQEIRRAGDEFNAYYARRV,3211.77,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB43.pdb
+Bcl-xL,LIB44,MRPEIWIAQEIRRAGDEVNAYYARRV,3163.73,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB44.pdb
+Bcl-xL,LIB45,MRPEIWIAQEIRRAGDENNAYYARRV,3178.7,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB45.pdb
+Bcl-xL,LIB46,MRPEIWIAQEIDRIGDEFNAYYARRV,3212.76,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB46.pdb
+Bcl-xL,LIB47,MRPEIWIAQEIDRIGDEVNAYYARRV,3164.72,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB47.pdb
+Bcl-xL,LIB48,MRPEIWIAQEIDRIGDENNAYYARRV,3179.69,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB48.pdb
+Bcl-xL,LIB49,MRPEIWIAQEIDRFGDEFNAYYARRV,3246.77,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB49.pdb
+Bcl-xL,LIB50,MRPEIWIAQEIDRFGDEVNAYYARRV,3198.73,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB50.pdb
+Bcl-xL,LIB51,MRPEIWIAQEIDRFGDENNAYYARRV,3213.7,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB51.pdb
+Bcl-xL,LIB52,MRPEIWIAQEIDRDGDEFNAYYARRV,3214.68,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB52.pdb
+Bcl-xL,LIB53,MRPEIWIAQEIDRDGDEVNAYYARRV,3166.64,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB53.pdb
+Bcl-xL,LIB54,MRPEIWIAQEIDRDGDENNAYYARRV,3181.61,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB54.pdb
+Bcl-xL,LIB55,MRPEIWIAQEIDRNGDEFNAYYARRV,3213.7,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB55.pdb
+Bcl-xL,LIB56,MRPEIWIAQEIDRNGDEVNAYYARRV,3165.66,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB56.pdb
+Bcl-xL,LIB57,MRPEIWIAQEIDRNGDENNAYYARRV,3180.63,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB57.pdb
+Bcl-xL,LIB58,MRPEIWIAQEIDRAGDEFNAYYARRV,3170.67,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB58.pdb
+Bcl-xL,LIB59,MRPEIWIAQEIDRAGDEVNAYYARRV,3122.63,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB59.pdb
+Bcl-xL,LIB60,MRPEIWIAQEIDRAGDENNAYYARRV,3137.6,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB60.pdb
+Bcl-xL,LIB62,MRPEIWIAQEFRRIGDEVNAYYARRV,3239.83,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB62.pdb
+Bcl-xL,LIB63,MRPEIWIAQEFRRIGDENNAYYARRV,3254.8,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB63.pdb
+Bcl-xL,LIB64,MRPEIWIAQEFRRFGDEFNAYYARRV,3321.88,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB64.pdb
+Bcl-xL,LIB65,MRPEIWIAQEFRRFGDEVNAYYARRV,3273.84,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB65.pdb
+Bcl-xL,LIB66,MRPEIWIAQEFRRFGDENNAYYARRV,3288.81,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB66.pdb
+Bcl-xL,LIB67,MRPEIWIAQEFRRDGDEFNAYYARRV,3289.79,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB67.pdb
+Bcl-xL,LIB68,MRPEIWIAQEFRRDGDEVNAYYARRV,3241.75,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB68.pdb
+Bcl-xL,LIB69,MRPEIWIAQEFRRDGDENNAYYARRV,3256.72,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB69.pdb
+Bcl-xL,LIB70,MRPEIWIAQEFRRNGDEFNAYYARRV,3288.81,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB70.pdb
+Bcl-xL,LIB71,MRPEIWIAQEFRRNGDEVNAYYARRV,3240.77,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB71.pdb
+Bcl-xL,LIB72,MRPEIWIAQEFRRNGDENNAYYARRV,3255.74,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB72.pdb
+Bcl-xL,LIB73,MRPEIWIAQEFRRAGDEFNAYYARRV,3245.78,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB73.pdb
+Bcl-xL,LIB74,MRPEIWIAQEFRRAGDEVNAYYARRV,3197.74,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB74.pdb
+Bcl-xL,LIB75,MRPEIWIAQEFRRAGDENNAYYARRV,3212.71,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB75.pdb
+Bcl-xL,LIB76,MRPEIWIAQEFDRIGDEFNAYYARRV,3246.77,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB76.pdb
+Bcl-xL,LIB77,MRPEIWIAQEFDRIGDEVNAYYARRV,3198.73,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB77.pdb
+Bcl-xL,LIB78,MRPEIWIAQEFDRIGDENNAYYARRV,3213.7,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB78.pdb
+Bcl-xL,LIB79,MRPEIWIAQEFDRFGDEFNAYYARRV,3280.78,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB79.pdb
+Bcl-xL,LIB80,MRPEIWIAQEFDRFGDEVNAYYARRV,3232.74,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB80.pdb
+Bcl-xL,LIB81,MRPEIWIAQEFDRFGDENNAYYARRV,3247.71,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB81.pdb
+Bcl-xL,LIB82,MRPEIWIAQEFDRDGDEFNAYYARRV,3248.69,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB82.pdb
+Bcl-xL,LIB83,MRPEIWIAQEFDRDGDEVNAYYARRV,3200.65,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB83.pdb
+Bcl-xL,LIB84,MRPEIWIAQEFDRDGDENNAYYARRV,3215.62,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB84.pdb
+Bcl-xL,LIB85,MRPEIWIAQEFDRNGDEFNAYYARRV,3247.71,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB85.pdb
+Bcl-xL,LIB86,MRPEIWIAQEFDRNGDEVNAYYARRV,3199.67,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB86.pdb
+Bcl-xL,LIB87,MRPEIWIAQEFDRNGDENNAYYARRV,3214.64,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB87.pdb
+Bcl-xL,LIB88,MRPEIWIAQEFDRAGDEFNAYYARRV,3204.68,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB88.pdb
+Bcl-xL,LIB89,MRPEIWIAQEFDRAGDEVNAYYARRV,3156.64,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB89.pdb
+Bcl-xL,LIB90,MRPEIWIAQEFDRAGDENNAYYARRV,3171.61,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB90.pdb
+Bcl-xL,LIB92,MRPEIWIAQEARRIGDEVNAYYARRV,3163.73,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB92.pdb
+Bcl-xL,LIB93,MRPEIWIAQEARRIGDENNAYYARRV,3178.7,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB93.pdb
+Bcl-xL,LIB94,MRPEIWIAQEARRFGDEFNAYYARRV,3245.78,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB94.pdb
+Bcl-xL,LIB95,MRPEIWIAQEARRFGDEVNAYYARRV,3197.74,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB95.pdb
+Bcl-xL,LIB96,MRPEIWIAQEARRFGDENNAYYARRV,3212.71,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB96.pdb
+Bcl-xL,LIB97,MRPEIWIAQEARRDGDEFNAYYARRV,3213.69,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB97.pdb
+Bcl-xL,LIB98,MRPEIWIAQEARRDGDEVNAYYARRV,3165.65,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB98.pdb
+Bcl-xL,LIB99,MRPEIWIAQEARRDGDENNAYYARRV,3180.62,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB99.pdb
+Bcl-xL,LIB100,MRPEIWIAQEARRNGDEFNAYYARRV,3212.71,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB100.pdb
+Bcl-xL,LIB101,MRPEIWIAQEARRNGDEVNAYYARRV,3164.67,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB101.pdb
+Bcl-xL,LIB102,MRPEIWIAQEARRNGDENNAYYARRV,3179.64,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB102.pdb
+Bcl-xL,LIB103,MRPEIWIAQEARRAGDEFNAYYARRV,3169.68,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB103.pdb
+Bcl-xL,LIB104,MRPEIWIAQEARRAGDEVNAYYARRV,3121.64,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB104.pdb
+Bcl-xL,LIB105,MRPEIWIAQEARRAGDENNAYYARRV,3136.61,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB105.pdb
+Bcl-xL,LIB106,MRPEIWIAQEADRIGDEFNAYYARRV,3170.67,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB106.pdb
+Bcl-xL,LIB107,MRPEIWIAQEADRIGDEVNAYYARRV,3122.63,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB107.pdb
+Bcl-xL,LIB108,MRPEIWIAQEADRIGDENNAYYARRV,3137.6,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB108.pdb
+Bcl-xL,LIB109,MRPEIWIAQEADRFGDEFNAYYARRV,3204.68,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB109.pdb
+Bcl-xL,LIB110,MRPEIWIAQEADRFGDEVNAYYARRV,3156.64,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB110.pdb
+Bcl-xL,LIB111,MRPEIWIAQEADRFGDENNAYYARRV,3171.61,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB111.pdb
+Bcl-xL,LIB112,MRPEIWIAQEADRDGDEFNAYYARRV,3172.59,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB112.pdb
+Bcl-xL,LIB113,MRPEIWIAQEADRDGDEVNAYYARRV,3124.55,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB113.pdb
+Bcl-xL,LIB114,MRPEIWIAQEADRDGDENNAYYARRV,3139.52,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB114.pdb
+Bcl-xL,LIB115,MRPEIWIAQEADRNGDEFNAYYARRV,3171.61,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB115.pdb
+Bcl-xL,LIB116,MRPEIWIAQEADRNGDEVNAYYARRV,3123.57,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB116.pdb
+Bcl-xL,LIB117,MRPEIWIAQEADRNGDENNAYYARRV,3138.54,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB117.pdb
+Bcl-xL,LIB118,MRPEIWIAQEADRAGDEFNAYYARRV,3128.58,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB118.pdb
+Bcl-xL,LIB119,MRPEIWIAQEADRAGDEVNAYYARRV,3080.54,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB119.pdb
+Bcl-xL,LIB120,MRPEIWIAQEADRAGDENNAYYARRV,3095.51,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB120.pdb
+Bcl-xL,LIB122,MRPEIWAAQELRRIGDEVNAYYARRV,3163.73,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB122.pdb
+Bcl-xL,LIB123,MRPEIWAAQELRRIGDENNAYYARRV,3178.7,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB123.pdb
+Bcl-xL,LIB124,MRPEIWAAQELRRFGDEFNAYYARRV,3245.78,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB124.pdb
+Bcl-xL,LIB125,MRPEIWAAQELRRFGDEVNAYYARRV,3197.74,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB125.pdb
+Bcl-xL,LIB126,MRPEIWAAQELRRFGDENNAYYARRV,3212.71,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB126.pdb
+Bcl-xL,LIB127,MRPEIWAAQELRRDGDEFNAYYARRV,3213.69,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB127.pdb
+Bcl-xL,LIB128,MRPEIWAAQELRRDGDEVNAYYARRV,3165.65,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB128.pdb
+Bcl-xL,LIB129,MRPEIWAAQELRRDGDENNAYYARRV,3180.62,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB129.pdb
+Bcl-xL,LIB130,MRPEIWAAQELRRNGDEFNAYYARRV,3212.71,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB130.pdb
+Bcl-xL,LIB131,MRPEIWAAQELRRNGDEVNAYYARRV,3164.67,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB131.pdb
+Bcl-xL,LIB132,MRPEIWAAQELRRNGDENNAYYARRV,3179.64,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB132.pdb
+Bcl-xL,LIB133,MRPEIWAAQELRRAGDEFNAYYARRV,3169.68,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB133.pdb
+Bcl-xL,LIB134,MRPEIWAAQELRRAGDEVNAYYARRV,3121.64,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB134.pdb
+Bcl-xL,LIB135,MRPEIWAAQELRRAGDENNAYYARRV,3136.61,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB135.pdb
+Bcl-xL,LIB136,MRPEIWAAQELDRIGDEFNAYYARRV,3170.67,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB136.pdb
+Bcl-xL,LIB137,MRPEIWAAQELDRIGDEVNAYYARRV,3122.63,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB137.pdb
+Bcl-xL,LIB138,MRPEIWAAQELDRIGDENNAYYARRV,3137.6,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB138.pdb
+Bcl-xL,LIB139,MRPEIWAAQELDRFGDEFNAYYARRV,3204.68,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB139.pdb
+Bcl-xL,LIB140,MRPEIWAAQELDRFGDEVNAYYARRV,3156.64,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB140.pdb
+Bcl-xL,LIB141,MRPEIWAAQELDRFGDENNAYYARRV,3171.61,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB141.pdb
+Bcl-xL,LIB142,MRPEIWAAQELDRDGDEFNAYYARRV,3172.59,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB142.pdb
+Bcl-xL,LIB143,MRPEIWAAQELDRDGDEVNAYYARRV,3124.55,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB143.pdb
+Bcl-xL,LIB144,MRPEIWAAQELDRDGDENNAYYARRV,3139.52,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB144.pdb
+Bcl-xL,LIB145,MRPEIWAAQELDRNGDEFNAYYARRV,3171.61,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB145.pdb
+Bcl-xL,LIB146,MRPEIWAAQELDRNGDEVNAYYARRV,3123.57,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB146.pdb
+Bcl-xL,LIB147,MRPEIWAAQELDRNGDENNAYYARRV,3138.54,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB147.pdb
+Bcl-xL,LIB148,MRPEIWAAQELDRAGDEFNAYYARRV,3128.58,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB148.pdb
+Bcl-xL,LIB149,MRPEIWAAQELDRAGDEVNAYYARRV,3080.54,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB149.pdb
+Bcl-xL,LIB150,MRPEIWAAQELDRAGDENNAYYARRV,3095.51,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB150.pdb
+Bcl-xL,LIB151,MRPEIWAAQEIRRIGDEFNAYYARRV,3211.77,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB151.pdb
+Bcl-xL,LIB152,MRPEIWAAQEIRRIGDEVNAYYARRV,3163.73,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB152.pdb
+Bcl-xL,LIB153,MRPEIWAAQEIRRIGDENNAYYARRV,3178.7,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB153.pdb
+Bcl-xL,LIB154,MRPEIWAAQEIRRFGDEFNAYYARRV,3245.78,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB154.pdb
+Bcl-xL,LIB155,MRPEIWAAQEIRRFGDEVNAYYARRV,3197.74,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB155.pdb
+Bcl-xL,LIB156,MRPEIWAAQEIRRFGDENNAYYARRV,3212.71,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB156.pdb
+Bcl-xL,LIB157,MRPEIWAAQEIRRDGDEFNAYYARRV,3213.69,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB157.pdb
+Bcl-xL,LIB158,MRPEIWAAQEIRRDGDEVNAYYARRV,3165.65,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB158.pdb
+Bcl-xL,LIB159,MRPEIWAAQEIRRDGDENNAYYARRV,3180.62,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB159.pdb
+Bcl-xL,LIB160,MRPEIWAAQEIRRNGDEFNAYYARRV,3212.71,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB160.pdb
+Bcl-xL,LIB161,MRPEIWAAQEIRRNGDEVNAYYARRV,3164.67,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB161.pdb
+Bcl-xL,LIB162,MRPEIWAAQEIRRNGDENNAYYARRV,3179.64,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB162.pdb
+Bcl-xL,LIB163,MRPEIWAAQEIRRAGDEFNAYYARRV,3169.68,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB163.pdb
+Bcl-xL,LIB164,MRPEIWAAQEIRRAGDEVNAYYARRV,3121.64,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB164.pdb
+Bcl-xL,LIB165,MRPEIWAAQEIRRAGDENNAYYARRV,3136.61,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB165.pdb
+Bcl-xL,LIB166,MRPEIWAAQEIDRIGDEFNAYYARRV,3170.67,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB166.pdb
+Bcl-xL,LIB167,MRPEIWAAQEIDRIGDEVNAYYARRV,3122.63,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB167.pdb
+Bcl-xL,LIB168,MRPEIWAAQEIDRIGDENNAYYARRV,3137.6,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB168.pdb
+Bcl-xL,LIB169,MRPEIWAAQEIDRFGDEFNAYYARRV,3204.68,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB169.pdb
+Bcl-xL,LIB170,MRPEIWAAQEIDRFGDEVNAYYARRV,3156.64,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB170.pdb
+Bcl-xL,LIB171,MRPEIWAAQEIDRFGDENNAYYARRV,3171.61,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB171.pdb
+Bcl-xL,LIB172,MRPEIWAAQEIDRDGDEFNAYYARRV,3172.59,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB172.pdb
+Bcl-xL,LIB173,MRPEIWAAQEIDRDGDEVNAYYARRV,3124.55,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB173.pdb
+Bcl-xL,LIB174,MRPEIWAAQEIDRDGDENNAYYARRV,3139.52,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB174.pdb
+Bcl-xL,LIB175,MRPEIWAAQEIDRNGDEFNAYYARRV,3171.61,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB175.pdb
+Bcl-xL,LIB176,MRPEIWAAQEIDRNGDEVNAYYARRV,3123.57,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB176.pdb
+Bcl-xL,LIB177,MRPEIWAAQEIDRNGDENNAYYARRV,3138.54,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB177.pdb
+Bcl-xL,LIB178,MRPEIWAAQEIDRAGDEFNAYYARRV,3128.58,L,Linear,Journal of Molecular Biology,2010,PDB_Files/LIB178.pdb
+Bcl-xL,XH11,RPEIWVAQELKRNGDEFNAYYAR,2826.23,L,Linear,Journal of Molecular Biology,2010,PDB_Files/XH11.pdb
+Bcl-xL,XF8,RPEIWFAQELKRNGDEYNAYYAR,2890.27,L,Linear,Journal of Molecular Biology,2010,PDB_Files/XF8.pdb
+Bcl-xL,XG10,RPEIWYAQEIRRFGDEFNAYYAR,2951.35,L,Linear,Journal of Molecular Biology,2010,PDB_Files/XG10.pdb
+Bcl-xL,XD5,RPEIWYAQELRRNGDEFNAYYAR,2918.28,L,Linear,Journal of Molecular Biology,2010,PDB_Files/XD5.pdb
+Bcl-xL,XG12,RPEIWYAQELGRAGDEFNAYYAR,2776.12,L,Linear,Journal of Molecular Biology,2010,PDB_Files/XG12.pdb
+Bcl-xL,BIM_I2dA,MRPEIWAAQELRRIGDEFNAYYAR,2956.44,L,Linear,PROTEIN SCIENCE,2010,PDB_Files/BIM_I2dA.pdb
+Bcl-xL,BIM_I2dY,MRPEIWYAQELRRIGDEFNAYYAR,3048.54,L,Linear,PROTEIN SCIENCE,2010,PDB_Files/BIM_I2dY.pdb
+Bcl-xL,Bim_I2dD,MRPEIWDAQELRRIGDEFNAYYARRV,3255.78,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I2dD.pdb
+Bcl-xL,Bim_I2dE,MRPEIWEAQELRRIGDEFNAYYARRV,3269.81,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I2dE.pdb
+Bcl-xL,Bim_I2dK,MRPEIWKAQELRRIGDEFNAYYARRV,3268.87,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I2dK.pdb
+Bcl-xL,Bim_I2dR,MRPEIWRAQELRRIGDEFNAYYARRV,3296.88,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I2dR.pdb
+Bcl-xL,Bim_I2dH,MRPEIWHAQELRRIGDEFNAYYARRV,3277.84,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I2dH.pdb
+Bcl-xL,Bim_I2dN,MRPEIWNAQELRRIGDEFNAYYARRV,3254.8,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I2dN.pdb
+Bcl-xL,Bim_I2dQ,MRPEIWQAQELRRIGDEFNAYYARRV,3268.83,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I2dQ.pdb
+Bcl-xL,Bim_I2dS,MRPEIWSAQELRRIGDEFNAYYARRV,3227.77,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I2dS.pdb
+Bcl-xL,Bim_I2dT,MRPEIWTAQELRRIGDEFNAYYARRV,3241.8,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I2dT.pdb
+Bcl-xL,Bim_I2dP,MRPEIWPAQELRRIGDEFNAYYARRV,3237.81,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I2dP.pdb
+Bcl-xL,Bim_I2dG,MRPEIWGAQELRRIGDEFNAYYARRV,3197.75,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I2dG.pdb
+Bcl-xL,Bim_I2dV,MRPEIWVAQELRRIGDEFNAYYARRV,3239.83,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I2dV.pdb
+Bcl-xL,Bim_I2dL,MRPEIWLAQELRRIGDEFNAYYARRV,3253.86,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I2dL.pdb
+Bcl-xL,Bim_I2dF,MRPEIWFAQELRRIGDEFNAYYARRV,3287.87,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I2dF.pdb
+Bcl-xL,Bim_I2dW,MRPEIWWAQELRRIGDEFNAYYARRV,3326.91,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I2dW.pdb
+Bcl-xL,Bim_A2eD,MRPEIWIDQELRRIGDEFNAYYARRV,3297.87,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_A2eD.pdb
+Bcl-xL,Bim_A2eE,MRPEIWIEQELRRIGDEFNAYYARRV,3311.9,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_A2eE.pdb
+Bcl-xL,Bim_A2eK,MRPEIWIKQELRRIGDEFNAYYARRV,3310.96,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_A2eK.pdb
+Bcl-xL,Bim_A2eR,MRPEIWIRQELRRIGDEFNAYYARRV,3338.97,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_A2eR.pdb
+Bcl-xL,Bim_A2eH,MRPEIWIHQELRRIGDEFNAYYARRV,3319.93,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_A2eH.pdb
+Bcl-xL,Bim_A2eN,MRPEIWINQELRRIGDEFNAYYARRV,3296.89,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_A2eN.pdb
+Bcl-xL,Bim_A2eQ,MRPEIWIQQELRRIGDEFNAYYARRV,3310.92,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_A2eQ.pdb
+Bcl-xL,Bim_A2eS,MRPEIWISQELRRIGDEFNAYYARRV,3269.86,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_A2eS.pdb
+Bcl-xL,Bim_A2eP,MRPEIWIPQELRRIGDEFNAYYARRV,3279.9,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_A2eP.pdb
+Bcl-xL,Bim_A2eG,MRPEIWIGQELRRIGDEFNAYYARRV,3239.84,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_A2eG.pdb
+Bcl-xL,BIM_I86E,EWIAQELRRIGDEFNAYY,2273.58,L,Linear,Protein Science,2008,PDB_Files/BIM_I86E.pdb
+Bcl-xL,BIM_Q90E,IWIAEELRRIGDEFNAYY,2258.61,L,Linear,Protein Science,2008,PDB_Files/BIM_Q90E.pdb
+Bcl-xL,BIM_F99E,IWIAQELRRIGDEENAYY,2239.57,L,Linear,Protein Science,2008,PDB_Files/BIM_F99E.pdb
+Bcl-xL,BIM_F99Q,IWIAQELRRIGDEQNAYY,2238.59,L,Linear,Protein Science,2008,PDB_Files/BIM_F99Q.pdb
+Bcl-xL,BIM_I95A,IWIAQELRRAGDEFNAYY,2215.54,L,Linear,Protein Science,2008,PDB_Files/BIM_I95A.pdb
+Bcl-xL,BIM_Y103K,IWIAQELRRIGDEFNAYK,2222.63,L,Linear,Protein Science,2008,PDB_Files/BIM_Y103K.pdb
+Bcl-xL,BIM_mutant_1,EWIAEELRRIGDEENAYY,2256.5,L,Linear,Protein Science,2008,PDB_Files/BIM_mutant_1.pdb
+Bcl-xL,BIM_mutant_2,IWIAQELRRAGDEFNAYK,2180.54,L,Linear,Protein Science,2008,PDB_Files/BIM_mutant_2.pdb
+Bcl-xL,BIM_86_103_,IWIAQELRRIGDEFNAYY,2257.63,L,Linear,Protein Science,2008,PDB_Files/BIM_86_103_.pdb
+Bcl-xL,Bim_BH3W89Y,DMRPEIYIAQELRRIGDEFNAY,2700.13,L,Linear,Cell Cycle,2008,PDB_Files/Bim_BH3W89Y.pdb
+Bcl-xL,R8_Bak,RRRRRRRRGCMGQVGRQLAIIGDDINRRY,3585.33,L,Linear,Neoplasia,2007,PDB_Files/R8_Bak.pdb
+Bcl-xL,R8_BAD,RRRRRRRRGCNLWAAQRYGRELRRMSDEFVD,4022.72,L,Linear,Neoplasia,2007,PDB_Files/R8_BAD.pdb
+Bcl-xL,Bim_145_165_,EIWIAQELRRIGDEFNAYYAR,2614.02,L,Linear,Annals of Surgical Oncology,2007,PDB_Files/Bim_145_165_.pdb
+Bcl-xL,R8_Bax,RRRRRRRRGCSTKKLSECLKRIGDELDSNM,3677.42,L,Linear,Neoplasia,2007,PDB_Files/R8_Bax.pdb
+Bcl-xL,Ant_Bax,RQIKIWFQNRRMKWKKSTKKLSECLKRIGDELDSNM,4496.54,L,Linear,Neoplasia,2007,PDB_Files/Ant_Bax.pdb
+Bcl-xL,Ant_Bak,RQIKIWFQNRRMKWKKMGQVGRQLAIIGDDINRRY,4404.45,L,Linear,Neoplasia,2007,PDB_Files/Ant_Bak.pdb
+Bcl-xL,Ant_Bad,RQIKIWFQNRRMKWKKNLWAAQRYGRELRRMSDEFVD,4841.84,L,Linear,Neoplasia,2007,PDB_Files/Ant_Bad.pdb
+Bcl-xL,Bax_12,STKKLECLKRIGDELDSNM,2180.62,L,Linear,Molecular Cancer Therapeutics,2004,PDB_Files/Bax_12.pdb
+Bcl-xL,Bax_18,TKKLSECLKRIGDE,1619.97,L,Linear,Molecular Cancer Therapeutics,2004,PDB_Files/Bax_18.pdb
+Bcl-xL,Bax_17,TKKLSECLKRIGDEL,1733.14,L,Linear,Molecular Cancer Therapeutics,2004,PDB_Files/Bax_17.pdb
+Bcl-xL,Bax_16,STKKLSECLKRIGDEL,1820.22,L,Linear,Molecular Cancer Therapeutics,2004,PDB_Files/Bax_16.pdb
+Bcl-xL,Bax_15,STKKLSECLGDELDSNM,1870.16,L,Linear,Molecular Cancer Therapeutics,2004,PDB_Files/Bax_15.pdb
+Bcl-xL,Bax_14,STKKLLKRIGDELDSNM,1948.36,L,Linear,Molecular Cancer Therapeutics,2004,PDB_Files/Bax_14.pdb
+Bcl-xL,Bax_13,STKKLCLKRIGDELDSNM,2051.5,L,Linear,Molecular Cancer Therapeutics,2004,PDB_Files/Bax_13.pdb
+Bcl-xL,Bax_1,STKKLSECLKRIGDELDSNM,2267.7,L,Linear,Molecular Cancer Therapeutics,2004,PDB_Files/Bax_1.pdb
+Bcl-xL,Bax_11,LSECLKRIGDELDSN,1691.95,L,Linear,Molecular Cancer Therapeutics,2004,PDB_Files/Bax_11.pdb
+Bcl-xL,Bax_10,KLSECLKRIGDELDS,1706.02,L,Linear,Molecular Cancer Therapeutics,2004,PDB_Files/Bax_10.pdb
+Bcl-xL,Bax_9,KKLSECLKRIGDELDSNM,2079.51,L,Linear,Molecular Cancer Therapeutics,2004,PDB_Files/Bax_9.pdb
+Bcl-xL,Bax_8,STKKLSECLKRIGDM,1709.13,L,Linear,Molecular Cancer Therapeutics,2004,PDB_Files/Bax_8.pdb
+Bcl-xL,Bax_7,STKKLSECLKRIGDEM,1838.25,L,Linear,Molecular Cancer Therapeutics,2004,PDB_Files/Bax_7.pdb
+Bcl-xL,Bax_6,STKKLSECLKRIGDELM,1951.42,L,Linear,Molecular Cancer Therapeutics,2004,PDB_Files/Bax_6.pdb
+Bcl-xL,Bax_5,STKKLSECLKRIGDELDM,2066.51,L,Linear,Molecular Cancer Therapeutics,2004,PDB_Files/Bax_5.pdb
+Bcl-xL,Bax_4,STKKLSECLKRIGDELDSM,2153.59,L,Linear,Molecular Cancer Therapeutics,2004,PDB_Files/Bax_4.pdb
+Bcl-xL,Bax_3,STKKLSECLKRIGDELDS,2022.39,L,Linear,Molecular Cancer Therapeutics,2004,PDB_Files/Bax_3.pdb
+Bcl-xL,Bax_2,AAKKLSECLKRIGDELDSNM,2221.67,L,Linear,Molecular Cancer Therapeutics,2004,PDB_Files/Bax_2.pdb
+Bcl-xL,TO4_human_Bax_21_mer_52_72_,QDASTKKLSECLKRIGDELDS,2336.7,L,Linear,THE JOURNAL OF BIOLOGICAL CHEMISTRY,1997,PDB_Files/TO4_human_Bax_21_mer_52_72_.pdb
+Bcl-xL,peptide_containing_the_BH3_regions_from_Bad_140_165_Mus_musculis_,NLWAAQRYGRELRRMSDEFEGSFKGL,3117.62,L,Linear,MOLECULAR AND CELLULAR BIOLOGY,1997,PDB_Files/peptide_containing_the_BH3_regions_from_Bad_140_165_Mus_musculis_.pdb
+Bcl-xL,human_BAD_peptide_103_127_,NLWAAQRYGRELRRMSDEFVDSFKK,3103.62,L,Linear,THE JOURNAL OF BIOLOGICAL CHEMISTRY,1997,PDB_Files/human_BAD_peptide_103_127_.pdb
+Bcl-xL,peptide_containing_the_BH3_regions_from_Bid_84_99_,RNIARHLAQVGDSMDR,1839.14,L,Linear,Current Biology,1997,PDB_Files/peptide_containing_the_BH3_regions_from_Bid_84_99_.pdb
+Bcl-xL,peptide_containing_the_BH3_regions_from_Bak_72_94_,GQVGRQLAIIGDDINRRYDSEFQ,2651.02,L,Linear,MOLECULAR AND CELLULAR BIOLOGY,1997,PDB_Files/peptide_containing_the_BH3_regions_from_Bak_72_94_.pdb
+Bcl-xL,peptide_containing_the_BH3_regions_from_Bak_72_87_,GQVGRQLAIIGDDINR,1725.04,L,Linear,MOLECULAR AND CELLULAR BIOLOGY,1997,PDB_Files/peptide_containing_the_BH3_regions_from_Bak_72_87_.pdb
+Bcl-xL,peptide_containing_the_BH3_regions_from_Bax_57_72_,KKLSECLKRIGDELDS,1834.2,L,Linear,MOLECULAR AND CELLULAR BIOLOGY,1997,PDB_Files/peptide_containing_the_BH3_regions_from_Bax_57_72_.pdb
+Bcl-xL,peptide_containing_the_BH3_regions_from_Bad_145_160_,QRYGRELRRMSDEFEG,2029.29,L,Linear,MOLECULAR AND CELLULAR BIOLOGY,1997,PDB_Files/peptide_containing_the_BH3_regions_from_Bad_145_160_.pdb
+Bcl-xL,BIM,MRPEIWIAQELRRIGDEFNAYYARRV,3253.86,L,Linear,Journal of Molecular Biology,2010,PDB_Files/BIM.pdb
+Bcl-xL,Bad,LWAAQRYGRELRRMSDEFVDSFKK,2989.51,L,Linear,PROTEIN SCIENCE,2010,PDB_Files/Bad.pdb
+Bcl-xL,BIM_F4aE,MRPEIWIAQELRRIGDEENAYYAR,2980.47,L,Linear,PROTEIN SCIENCE,2010,PDB_Files/BIM_F4aE.pdb
+Bcl-xL,BIM_I3dF,MRPEIWIAQELRRFGDEFNAYYAR,3032.54,L,Linear,PROTEIN SCIENCE,2010,PDB_Files/BIM_I3dF.pdb
+Bcl-xL,BIM_E3gK,MRPEIWIAQELRRIGDKFNAYYAR,2997.59,L,Linear,PROTEIN SCIENCE,2010,PDB_Files/BIM_E3gK.pdb
+Bcl-xL,Bim_I2dA,MRPEIWAAQELRRIGDEFNAYYARRV,3211.77,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I2dA.pdb
+Bcl-xL,Bim_I2dY,MRPEIWYAQELRRIGDEFNAYYARRV,3303.87,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_I2dY.pdb
+Bcl-xL,Bim_A2eT,MRPEIWITQELRRIGDEFNAYYARRV,3283.89,L,Linear,Journal of Molecular Biology,2010,PDB_Files/Bim_A2eT.pdb
