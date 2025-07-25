@@ -1,6 +1,5 @@
 # 🧬 Binding Pocket-Aware GNN Pipeline for Therapeutic Peptide Design
 
-This repository contains a complete preprocessing and training pipeline for paper titled, "Enhancing Latent Diffusion Models with Graph Neural Networks for Binding Pocket-Aware Therapeutic Peptide Design".
 
 
 
@@ -8,6 +7,34 @@ This repository contains a complete preprocessing and training pipeline for pape
 <img src="Images/GNN_Architecture_with_diffusion.png" alt= "Image not available" width="70%"/>
 
 </p>
+This repository contains a complete preprocessing and training pipeline for paper titled, "Enhancing Latent Diffusion Models with Graph Neural Networks for Binding Pocket-Aware Therapeutic Peptide Design".
+
+
+## 📚 Table of Contents
+
+- [Getting Started](#getting-started)
+  - [⚙️ Anaconda Environment Setup Guide](#️-anaconda-environment-setup-guide)
+  - [📁 Folder Structure](#-folder-structure)
+  - [✅ Setup](#-setup)
+  - [🧪 Verifying Installation](#-verifying-installation)
+  - [🛠️ Troubleshooting](#️-troubleshooting)
+  - [📌 Notes](#-notes)
+- [🚀 Usage](#-usage)
+  - [📂 Dataset and Saved Models](#-dataset-and-saved-models)
+  - [Preprocessing the dataset](#preprocessing-the-dataset)
+  - [Training and finetuning](#training-and-finetuning)
+    - [🧪 Pretraining Mode](#-pretraining-mode)
+    - [🔬 Finetuning Mode](#-finetuning-mode)
+    - [Step 4: Train GNN Models](#step-4-train-gnn-models)
+    - [Step 5: Train the Decoder Module](#step-5-train-the-decoder-module)
+    - [Step 6: Train the Latent Diffusion Model](#step-6-train-the-latent-diffusion-model)
+  - [Optional: Finetuning ESM model](#optional-finetuning-esm-model)
+- [Data Analytics](#data-analytics)
+- [📊 Logging & Evaluation](#-logging--evaluation)
+- [🧠 Docking](#-docking)
+- [📌 Citation](#-citation)
+
+
 <!--
 ![Image not available](Images/GNN_Architecture_with_diffusion.png)
 project-root/
@@ -26,7 +53,7 @@ project-root/
 └── README.md
 -->
 
----
+
 ## Getting Started
 ### ⚙️ Anaconda Environment Setup Guide
 
@@ -229,7 +256,7 @@ This will **load the pretrained model** from the BioLiP phase and continue train
 ⚠️ **Important:** Ensure the pretrained model checkpoints are available before initiating finetuning.
 
 
-#### 4. **Train GNN Models**
+#### Step 4: **Train GNN Models**
 
 Running these python scripts will automatically perform both pretraining and finetuning for their GNN models as well as creating the embedding pockets for constraint integration for the diffusion model.
 
