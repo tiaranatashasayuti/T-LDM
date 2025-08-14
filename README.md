@@ -1,5 +1,4 @@
-# 🧬 Binding Pocket-Aware GNN Pipeline for Therapeutic Peptide Design
-
+# 🧬 T-LDM: Target-Aware Latent Diffusion Model for Design of Apoptosis-Inducing Anticancer Peptides binding to BCL-xL.
 
 
 
