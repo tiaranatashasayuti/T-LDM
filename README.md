@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="Images/GNN_Architecture_with_diffusion.png" alt= "Image not available" width="70%"/>
+<img src="Images/Architecture.jpg" alt= "Image not available" width="70%"/>
 
 </p>
 This repository contains a complete preprocessing and training pipeline for paper titled, "Enhancing Latent Diffusion Models with Graph Neural Networks for Binding Pocket-Aware Therapeutic Peptide Design".
@@ -366,7 +366,7 @@ Before running the scripts, make sure to update all directory paths inside both 
 
 
 <p align="center">
-<img src="Images/combined_density_plot_all_models.png" alt= "Image not available" width="70%"/>
+<img src="Images/combined_density_plot_all_models.jpg" alt= "Image not available" width="70%"/>
 
 </p>
 
