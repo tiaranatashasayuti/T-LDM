@@ -389,4 +389,4 @@ Instructions on how to use HADDOCK3 can be found here: [HADDOCK3](https://www.bo
 
 ## 📌 Citation
 
-If this code contributes to your research, please consider citing our work (manuscript submitted to *Briefings in Bioinformatics*).
+If this code contributes to your research, please consider citing our work (manuscript submitted to *Computer in Biology and Medicine*).
