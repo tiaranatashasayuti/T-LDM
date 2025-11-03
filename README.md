@@ -1,9 +1,9 @@
-# 🧬 T-LDM: Target-Aware Latent Diffusion Model for Design of Apoptosis-Inducing Anticancer Peptides binding to BCL-xL.
+# 🧬 T-LDM: Target-aware latent diffusion model for design of apoptosis-inducing anticancer peptides.
 
 
 
 <p align="center">
-<img src="Images/Architecture.jpg" alt= "Image not available" width="70%"/>
+<img src="Images/Architecture.png" alt= "Image not available" width="70%"/>
 
 </p>
 This repository contains a complete preprocessing and training pipeline for paper titled, "Enhancing Latent Diffusion Models with Graph Neural Networks for Binding Pocket-Aware Therapeutic Peptide Design".
