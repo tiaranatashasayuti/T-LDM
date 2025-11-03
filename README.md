@@ -28,7 +28,6 @@ This repository contains a complete preprocessing and training pipeline for pape
     - [Step 5: Train the Decoder Module](#step-5-train-the-decoder-module)
     - [Step 6: Train the Latent Diffusion Model](#step-6-train-the-latent-diffusion-model)
   - [Optional: Finetuning ESM model](#optional-finetuning-esm-model)
-- [Data Analytics](#data-analytics)
 - [📊 Logging & Evaluation](#-logging--evaluation)
 - [🧠 Docking](#-docking)
 - [📌 Citation](#-citation)
@@ -356,23 +355,6 @@ Final trained ACP-specific ESM model is stored in the directory passed to `--acp
 
 ---
 
-## Data Analytics
-Once new peptide sequences have been generated, you can evaluate their statistical properties by comparing the distributions of key metrics with those of the training data using KL divergence.
-
-To begin, run `acps_and_instb_calc.py` to compute the ACP scores and instability index for the generated peptides. Then, execute `distribution_curve.py` to visualize the distribution curves and compute the KL divergence across relevant metrics.
-
-Before running the scripts, make sure to update all directory paths inside both Python files to match your project structure.
-
-
-
-<p align="center">
-<img src="Images/combined_density_plot_all_models.jpg" alt= "Image not available" width="70%"/>
-
-</p>
-
-The plots generated will compare Molecular weight, Isoelectric point, Net charge at pH 7, GRAVY, Instability Index, and ACP scores between the generated peptide and training data peptide as shown in the image above.
-
----
 ## 📊 Logging & Evaluation
 
 - All Training logs and metrics (Eg. loss, accuracy, AUC-ROC) are tracked with [Weights & Biases](https://wandb.ai/). Please ensure you have have setup wandb prior to running this project.
