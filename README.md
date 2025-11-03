@@ -6,7 +6,7 @@
 <img src="Images/Architecture.png" alt= "Image not available" width="70%"/>
 
 </p>
-This repository contains a complete preprocessing and training pipeline for paper titled, "Enhancing Latent Diffusion Models with Graph Neural Networks for Binding Pocket-Aware Therapeutic Peptide Design".
+This repository contains a complete preprocessing and training pipeline for paper titled, "Target-aware latent diffusion model for design of apoptosis-inducing anticancer peptides".
 
 
 ## 📚 Table of Contents
