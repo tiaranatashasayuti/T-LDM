@@ -15,7 +15,7 @@ class BioMLMDataset(Dataset):
     """
     def __init__(self, csv_file, tokenizer, max_length=64, mask_prob=0.15):
         self.df = pd.read_csv(csv_file)
-        self.sequences = self.df["Sequence"].astype(str).tolist()
+        self.sequences = self.df["Peptide Sequence"].astype(str).tolist()
         self.tokenizer = tokenizer
         self.max_length = max_length
         self.mask_prob = mask_prob
@@ -126,7 +126,7 @@ def train_esm_mlm(model, tokenizer, train_csv, device,
         print(f"[{run_name}] Epoch {epoch+1}/{epochs}, Average Loss: {avg_loss:.4f}")
         wandb.log({"Epoch Loss": avg_loss}, step=epoch)
 
-        # Save model and tokenizer after every epoch 
+        # Save model and tokenizer after every epoch (optional)
         epoch_output_dir = os.path.join(output_dir, f"epoch_{epoch+1}")
         os.makedirs(epoch_output_dir, exist_ok=True)
         model.save_pretrained(epoch_output_dir)
@@ -139,7 +139,7 @@ def train_esm_mlm(model, tokenizer, train_csv, device,
     print(f"[{run_name}] Final model saved to {output_dir}")
     
     wandb.finish()
-    return model  # Return the updated model
+    return model  
 
 def freeze_all_except_last_layer(model):
     # Freeze all parameters first.
@@ -187,31 +187,32 @@ def main():
 
     device = torch.device(args.device)
 
-    # ----------------------
-    # Stage 1: Fine-tune on BioLiP
-    # ----------------------
-    print(f"=== Stage 1: Fine-tuning ESM-2 on BioLiP ({args.biolip_csv}) ===")
-    tokenizer = AutoTokenizer.from_pretrained(args.model_name)
-    model = EsmForMaskedLM.from_pretrained(args.model_name)
+    pretrain = False
 
-    model.to(device)
+    if pretrain:
+        # ----------------------
+        # Stage 1: Fine-tune on BioLiP
+        # ----------------------
+        print(f"=== Stage 1: Fine-tuning ESM-2 on BioLiP ({args.biolip_csv}) ===")
+        tokenizer = AutoTokenizer.from_pretrained(args.model_name)
+        model = EsmForMaskedLM.from_pretrained(args.model_name)
 
-    # Freeze all layers except the last transformer block and LM head
-    freeze_all_except_last_layer(model)
+        model.to(device)
+        freeze_all_except_last_layer(model)
 
-    model = train_esm_mlm(
-        model=model,
-        tokenizer=tokenizer,
-        train_csv=args.biolip_csv,
-        device=device,
-        output_dir=args.biolip_output,
-        epochs=args.biolip_epochs,
-        batch_size=args.batch_size,
-        lr=args.lr,
-        max_length=args.max_length,
-        mask_prob=args.mask_prob,
-        run_name="ESM2_BioLiP_FT"
-    )
+        model = train_esm_mlm(
+            model=model,
+            tokenizer=tokenizer,
+            train_csv=args.biolip_csv,
+            device=device,
+            output_dir=args.biolip_output,
+            epochs=args.biolip_epochs,
+            batch_size=args.batch_size,
+            lr=args.lr,
+            max_length=args.max_length,
+            mask_prob=args.mask_prob,
+            run_name="ESM2_BioLiP_FT"
+        )
 
     # ----------------------
     # Stage 2: Fine-tune on ACP
